@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card {
+  @apply bg-white dark:bg-slate-800 rounded-3xl shadow-md border border-slate-100 dark:border-slate-700;
+}
+
+.btn-primary {
+  @apply inline-flex items-center justify-center gap-2 px-4 py-2 rounded-2xl bg-brand-600 text-white hover:bg-brand-700 transition;
+}
+
+body {
+  @apply bg-slate-50 dark:bg-slate-900 text-slate-800 dark:text-slate-200;
+}

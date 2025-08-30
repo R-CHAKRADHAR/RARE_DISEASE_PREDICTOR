@@ -1,0 +1,1001 @@
+Disease,Variant,Age_of_Onset,Severity_Level,Prevalence,Genetic_or_Not,Treatment_Available
+Maple Syrup Urine Disease,Classic,77,Mild,"1 in 100,000",Yes,Available
+Niemann-Pick Disease,Type A,68,Moderate,"1 in 500,000",Yes,Not Available
+Batten Disease,Adult-onset,32,Severe,"1 in 1,000,000",Yes,Not Available
+Fibrodysplasia Ossificans Progressiva,Mild FOP,26,Severe,"1 in 500,000",No,Not Available
+Maple Syrup Urine Disease,Intermediate,30,Moderate,"1 in 500,000",Yes,Not Available
+Hypophosphatasia,Perinatal,61,Moderate,"1 in 100,000",No,Not Available
+Primary Ciliary Dyskinesia,Respiratory Variant,8,Severe,"1 in 1,000,000",Yes,Experimental
+Hallervorden-Spatz Disease,Juvenile,64,Moderate,"1 in 1,000,000",No,Available
+Ehlers-Danlos Syndrome,Vascular,51,Severe,"1 in 100,000",Yes,Available
+Niemann-Pick Disease,Type B,16,Mild,"1 in 500,000",Yes,Not Available
+Hypophosphatasia,Adult,2,Moderate,"1 in 1,000,000",No,Experimental
+Alkaptonuria,Severe,11,Severe,"1 in 100,000",Yes,Not Available
+Primary Ciliary Dyskinesia,Ciliary Structural Variant,9,Mild,"1 in 500,000",Yes,Not Available
+Hutchinson-Gilford Progeria Syndrome,Classic HGPS,51,Mild,"1 in 1,000,000",Yes,Available
+Batten Disease,Adult-onset,50,Mild,"1 in 500,000",Yes,Available
+Alkaptonuria,Severe,28,Severe,"1 in 100,000",No,Not Available
+Niemann-Pick Disease,Type C,56,Severe,"1 in 1,000,000",No,Experimental
+Hutchinson-Gilford Progeria Syndrome,Atypical HGPS,26,Moderate,"1 in 100,000",No,Not Available
+Fibrodysplasia Ossificans Progressiva,Variant FOP,36,Moderate,"1 in 100,000",No,Experimental
+Hutchinson-Gilford Progeria Syndrome,Atypical HGPS,40,Mild,"1 in 1,000,000",Yes,Experimental
+Hypophosphatasia,Perinatal,67,Severe,"1 in 1,000,000",Yes,Experimental
+Maple Syrup Urine Disease,Intermediate,57,Severe,"1 in 100,000",Yes,Not Available
+Niemann-Pick Disease,Type C,29,Mild,"1 in 100,000",No,Available
+Alkaptonuria,Moderate,6,Moderate,"1 in 100,000",No,Available
+Hutchinson-Gilford Progeria Syndrome,Juvenile Progeria,20,Mild,"1 in 500,000",Yes,Not Available
+Hallervorden-Spatz Disease,Atypical,22,Severe,"1 in 1,000,000",No,Available
+Hallervorden-Spatz Disease,Juvenile,50,Severe,"1 in 100,000",Yes,Not Available
+Alkaptonuria,Mild,10,Mild,"1 in 500,000",Yes,Available
+Maple Syrup Urine Disease,Intermediate,15,Moderate,"1 in 500,000",Yes,Available
+Niemann-Pick Disease,Type B,70,Mild,"1 in 100,000",No,Experimental
+Niemann-Pick Disease,Type C,43,Mild,"1 in 100,000",No,Not Available
+Batten Disease,Infantile,38,Severe,"1 in 100,000",No,Available
+Maple Syrup Urine Disease,Intermediate,60,Mild,"1 in 500,000",Yes,Experimental
+Batten Disease,Adult-onset,26,Mild,"1 in 1,000,000",No,Available
+Hutchinson-Gilford Progeria Syndrome,Classic HGPS,19,Severe,"1 in 500,000",No,Experimental
+Fibrodysplasia Ossificans Progressiva,Variant FOP,52,Severe,"1 in 500,000",Yes,Not Available
+Niemann-Pick Disease,Type B,21,Mild,"1 in 500,000",No,Available
+Niemann-Pick Disease,Type A,10,Severe,"1 in 1,000,000",No,Not Available
+Maple Syrup Urine Disease,Intermediate,43,Moderate,"1 in 100,000",No,Not Available
+Maple Syrup Urine Disease,Classic,29,Moderate,"1 in 500,000",No,Available
+Niemann-Pick Disease,Type B,46,Moderate,"1 in 1,000,000",Yes,Available
+Batten Disease,Infantile,14,Severe,"1 in 500,000",Yes,Not Available
+Maple Syrup Urine Disease,Intermediate,43,Severe,"1 in 1,000,000",Yes,Experimental
+Hypophosphatasia,Perinatal,42,Mild,"1 in 100,000",No,Not Available
+Hutchinson-Gilford Progeria Syndrome,Classic HGPS,48,Severe,"1 in 1,000,000",Yes,Available
+Niemann-Pick Disease,Type C,73,Severe,"1 in 100,000",No,Not Available
+Batten Disease,Adult-onset,41,Mild,"1 in 500,000",Yes,Experimental
+Ehlers-Danlos Syndrome,Classical,5,Mild,"1 in 100,000",Yes,Experimental
+Fibrodysplasia Ossificans Progressiva,Variant FOP,69,Severe,"1 in 1,000,000",Yes,Available
+Fibrodysplasia Ossificans Progressiva,Classic FOP,30,Severe,"1 in 1,000,000",Yes,Experimental
+Fibrodysplasia Ossificans Progressiva,Variant FOP,5,Severe,"1 in 500,000",No,Not Available
+Alkaptonuria,Severe,15,Mild,"1 in 500,000",No,Available
+Fibrodysplasia Ossificans Progressiva,Mild FOP,53,Mild,"1 in 100,000",No,Experimental
+Primary Ciliary Dyskinesia,Respiratory Variant,42,Moderate,"1 in 100,000",Yes,Not Available
+Maple Syrup Urine Disease,Intermittent,69,Mild,"1 in 100,000",Yes,Not Available
+Fibrodysplasia Ossificans Progressiva,Classic FOP,7,Severe,"1 in 100,000",No,Experimental
+Hypophosphatasia,Adult,55,Severe,"1 in 500,000",No,Available
+Batten Disease,Infantile,17,Moderate,"1 in 1,000,000",No,Available
+Fibrodysplasia Ossificans Progressiva,Mild FOP,30,Moderate,"1 in 100,000",Yes,Experimental
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,48,Moderate,"1 in 1,000,000",No,Available
+Fibrodysplasia Ossificans Progressiva,Mild FOP,52,Mild,"1 in 500,000",Yes,Experimental
+Maple Syrup Urine Disease,Intermittent,26,Moderate,"1 in 1,000,000",No,Not Available
+Fibrodysplasia Ossificans Progressiva,Variant FOP,56,Mild,"1 in 1,000,000",No,Available
+Maple Syrup Urine Disease,Classic,20,Moderate,"1 in 500,000",No,Available
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,33,Severe,"1 in 500,000",Yes,Experimental
+Alkaptonuria,Mild,34,Mild,"1 in 100,000",No,Not Available
+Hallervorden-Spatz Disease,Classic,18,Severe,"1 in 100,000",No,Available
+Niemann-Pick Disease,Type B,10,Mild,"1 in 1,000,000",Yes,Experimental
+Hypophosphatasia,Adult,65,Severe,"1 in 1,000,000",No,Not Available
+Niemann-Pick Disease,Type C,60,Severe,"1 in 1,000,000",Yes,Available
+Hypophosphatasia,Infantile,28,Mild,"1 in 100,000",No,Available
+Niemann-Pick Disease,Type C,30,Severe,"1 in 1,000,000",No,Experimental
+Alkaptonuria,Mild,76,Moderate,"1 in 1,000,000",Yes,Experimental
+Alkaptonuria,Moderate,34,Severe,"1 in 100,000",Yes,Available
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,37,Severe,"1 in 1,000,000",Yes,Experimental
+Maple Syrup Urine Disease,Intermediate,66,Severe,"1 in 100,000",Yes,Available
+Alkaptonuria,Moderate,56,Mild,"1 in 500,000",No,Available
+Hypophosphatasia,Adult,56,Moderate,"1 in 1,000,000",Yes,Not Available
+Hutchinson-Gilford Progeria Syndrome,Atypical HGPS,52,Mild,"1 in 500,000",No,Available
+Batten Disease,Adult-onset,40,Severe,"1 in 100,000",No,Experimental
+Niemann-Pick Disease,Type C,19,Severe,"1 in 100,000",Yes,Experimental
+Alkaptonuria,Severe,44,Mild,"1 in 100,000",Yes,Not Available
+Maple Syrup Urine Disease,Classic,43,Moderate,"1 in 500,000",No,Experimental
+Fibrodysplasia Ossificans Progressiva,Classic FOP,69,Mild,"1 in 100,000",No,Available
+Hallervorden-Spatz Disease,Classic,54,Severe,"1 in 1,000,000",Yes,Not Available
+Maple Syrup Urine Disease,Classic,1,Severe,"1 in 100,000",No,Experimental
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,46,Mild,"1 in 100,000",No,Experimental
+Fibrodysplasia Ossificans Progressiva,Classic FOP,7,Severe,"1 in 500,000",Yes,Not Available
+Maple Syrup Urine Disease,Intermediate,60,Mild,"1 in 500,000",No,Available
+Hallervorden-Spatz Disease,Atypical,10,Moderate,"1 in 1,000,000",No,Available
+Hypophosphatasia,Adult,38,Moderate,"1 in 500,000",Yes,Not Available
+Fibrodysplasia Ossificans Progressiva,Mild FOP,44,Severe,"1 in 100,000",No,Experimental
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,54,Moderate,"1 in 100,000",Yes,Available
+Niemann-Pick Disease,Type A,17,Severe,"1 in 500,000",No,Experimental
+Primary Ciliary Dyskinesia,Respiratory Variant,49,Moderate,"1 in 500,000",No,Not Available
+Fibrodysplasia Ossificans Progressiva,Mild FOP,53,Severe,"1 in 100,000",Yes,Available
+Maple Syrup Urine Disease,Intermittent,43,Moderate,"1 in 1,000,000",No,Experimental
+Maple Syrup Urine Disease,Classic,38,Severe,"1 in 100,000",No,Experimental
+Ehlers-Danlos Syndrome,Classical,12,Severe,"1 in 1,000,000",No,Available
+Maple Syrup Urine Disease,Intermediate,33,Severe,"1 in 500,000",No,Available
+Primary Ciliary Dyskinesia,Respiratory Variant,51,Mild,"1 in 500,000",No,Available
+Hallervorden-Spatz Disease,Juvenile,17,Mild,"1 in 100,000",No,Not Available
+Maple Syrup Urine Disease,Intermediate,65,Severe,"1 in 100,000",No,Available
+Maple Syrup Urine Disease,Classic,33,Moderate,"1 in 100,000",No,Not Available
+Alkaptonuria,Severe,13,Mild,"1 in 1,000,000",Yes,Experimental
+Primary Ciliary Dyskinesia,Respiratory Variant,54,Severe,"1 in 1,000,000",Yes,Experimental
+Niemann-Pick Disease,Type B,62,Severe,"1 in 1,000,000",No,Available
+Batten Disease,Infantile,62,Severe,"1 in 1,000,000",Yes,Available
+Hutchinson-Gilford Progeria Syndrome,Juvenile Progeria,67,Moderate,"1 in 1,000,000",No,Available
+Niemann-Pick Disease,Type A,18,Severe,"1 in 1,000,000",No,Experimental
+Maple Syrup Urine Disease,Classic,12,Moderate,"1 in 100,000",No,Available
+Batten Disease,Juvenile,68,Severe,"1 in 1,000,000",No,Available
+Batten Disease,Adult-onset,73,Moderate,"1 in 500,000",Yes,Available
+Fibrodysplasia Ossificans Progressiva,Mild FOP,60,Severe,"1 in 500,000",Yes,Available
+Ehlers-Danlos Syndrome,Hypermobile,65,Severe,"1 in 1,000,000",No,Experimental
+Batten Disease,Juvenile,70,Severe,"1 in 100,000",No,Available
+Batten Disease,Adult-onset,79,Mild,"1 in 100,000",No,Available
+Hutchinson-Gilford Progeria Syndrome,Atypical HGPS,9,Mild,"1 in 500,000",Yes,Not Available
+Fibrodysplasia Ossificans Progressiva,Classic FOP,46,Moderate,"1 in 100,000",Yes,Not Available
+Batten Disease,Juvenile,56,Severe,"1 in 100,000",Yes,Experimental
+Hypophosphatasia,Perinatal,57,Severe,"1 in 500,000",Yes,Available
+Ehlers-Danlos Syndrome,Vascular,70,Moderate,"1 in 500,000",No,Not Available
+Batten Disease,Infantile,52,Moderate,"1 in 500,000",Yes,Experimental
+Niemann-Pick Disease,Type B,58,Moderate,"1 in 1,000,000",Yes,Available
+Ehlers-Danlos Syndrome,Vascular,77,Moderate,"1 in 500,000",No,Experimental
+Batten Disease,Adult-onset,77,Severe,"1 in 100,000",No,Available
+Niemann-Pick Disease,Type B,18,Moderate,"1 in 1,000,000",Yes,Not Available
+Alkaptonuria,Severe,75,Severe,"1 in 500,000",Yes,Experimental
+Primary Ciliary Dyskinesia,Respiratory Variant,80,Severe,"1 in 500,000",No,Not Available
+Alkaptonuria,Moderate,64,Moderate,"1 in 500,000",No,Not Available
+Ehlers-Danlos Syndrome,Classical,75,Mild,"1 in 100,000",No,Not Available
+Hallervorden-Spatz Disease,Classic,61,Severe,"1 in 1,000,000",Yes,Available
+Fibrodysplasia Ossificans Progressiva,Mild FOP,66,Mild,"1 in 100,000",No,Not Available
+Maple Syrup Urine Disease,Intermediate,41,Severe,"1 in 100,000",Yes,Not Available
+Niemann-Pick Disease,Type B,13,Moderate,"1 in 100,000",Yes,Not Available
+Niemann-Pick Disease,Type A,74,Severe,"1 in 500,000",No,Not Available
+Fibrodysplasia Ossificans Progressiva,Classic FOP,10,Severe,"1 in 500,000",Yes,Experimental
+Hallervorden-Spatz Disease,Juvenile,63,Mild,"1 in 500,000",Yes,Available
+Batten Disease,Juvenile,60,Severe,"1 in 100,000",No,Not Available
+Batten Disease,Juvenile,3,Mild,"1 in 1,000,000",No,Experimental
+Alkaptonuria,Mild,79,Mild,"1 in 100,000",Yes,Experimental
+Hutchinson-Gilford Progeria Syndrome,Classic HGPS,22,Moderate,"1 in 500,000",Yes,Not Available
+Fibrodysplasia Ossificans Progressiva,Mild FOP,32,Severe,"1 in 500,000",No,Not Available
+Batten Disease,Infantile,3,Severe,"1 in 100,000",No,Available
+Fibrodysplasia Ossificans Progressiva,Classic FOP,48,Mild,"1 in 500,000",No,Available
+Ehlers-Danlos Syndrome,Hypermobile,10,Mild,"1 in 500,000",Yes,Experimental
+Batten Disease,Infantile,23,Severe,"1 in 1,000,000",No,Experimental
+Hutchinson-Gilford Progeria Syndrome,Juvenile Progeria,59,Severe,"1 in 1,000,000",No,Not Available
+Niemann-Pick Disease,Type C,70,Moderate,"1 in 1,000,000",No,Available
+Niemann-Pick Disease,Type B,14,Moderate,"1 in 100,000",Yes,Experimental
+Hutchinson-Gilford Progeria Syndrome,Classic HGPS,42,Moderate,"1 in 1,000,000",No,Experimental
+Fibrodysplasia Ossificans Progressiva,Classic FOP,32,Severe,"1 in 1,000,000",Yes,Available
+Alkaptonuria,Severe,12,Moderate,"1 in 1,000,000",No,Not Available
+Maple Syrup Urine Disease,Classic,50,Mild,"1 in 500,000",Yes,Available
+Maple Syrup Urine Disease,Intermediate,72,Mild,"1 in 100,000",Yes,Not Available
+Alkaptonuria,Moderate,72,Moderate,"1 in 1,000,000",No,Experimental
+Hypophosphatasia,Infantile,53,Mild,"1 in 1,000,000",No,Available
+Alkaptonuria,Mild,32,Severe,"1 in 1,000,000",Yes,Not Available
+Hutchinson-Gilford Progeria Syndrome,Juvenile Progeria,61,Mild,"1 in 100,000",No,Experimental
+Primary Ciliary Dyskinesia,Respiratory Variant,75,Mild,"1 in 100,000",Yes,Not Available
+Ehlers-Danlos Syndrome,Classical,42,Mild,"1 in 1,000,000",Yes,Available
+Maple Syrup Urine Disease,Classic,72,Severe,"1 in 1,000,000",No,Available
+Batten Disease,Infantile,76,Moderate,"1 in 100,000",Yes,Not Available
+Batten Disease,Juvenile,69,Severe,"1 in 500,000",No,Experimental
+Niemann-Pick Disease,Type B,33,Severe,"1 in 100,000",Yes,Not Available
+Ehlers-Danlos Syndrome,Vascular,31,Severe,"1 in 100,000",No,Available
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,57,Moderate,"1 in 100,000",No,Available
+Maple Syrup Urine Disease,Intermittent,65,Mild,"1 in 500,000",No,Experimental
+Ehlers-Danlos Syndrome,Classical,4,Moderate,"1 in 500,000",No,Available
+Niemann-Pick Disease,Type B,9,Moderate,"1 in 100,000",No,Experimental
+Batten Disease,Juvenile,2,Severe,"1 in 1,000,000",Yes,Not Available
+Niemann-Pick Disease,Type C,14,Mild,"1 in 100,000",No,Not Available
+Ehlers-Danlos Syndrome,Vascular,28,Moderate,"1 in 1,000,000",Yes,Experimental
+Fibrodysplasia Ossificans Progressiva,Mild FOP,4,Severe,"1 in 100,000",No,Available
+Fibrodysplasia Ossificans Progressiva,Mild FOP,21,Mild,"1 in 1,000,000",Yes,Not Available
+Hypophosphatasia,Infantile,64,Severe,"1 in 100,000",Yes,Available
+Hallervorden-Spatz Disease,Classic,57,Severe,"1 in 100,000",No,Not Available
+Batten Disease,Infantile,18,Severe,"1 in 1,000,000",Yes,Not Available
+Ehlers-Danlos Syndrome,Classical,40,Moderate,"1 in 100,000",Yes,Not Available
+Ehlers-Danlos Syndrome,Classical,40,Severe,"1 in 100,000",Yes,Not Available
+Primary Ciliary Dyskinesia,Respiratory Variant,39,Mild,"1 in 100,000",Yes,Not Available
+Maple Syrup Urine Disease,Intermediate,29,Moderate,"1 in 100,000",No,Not Available
+Niemann-Pick Disease,Type A,57,Severe,"1 in 1,000,000",Yes,Available
+Primary Ciliary Dyskinesia,Respiratory Variant,5,Mild,"1 in 1,000,000",Yes,Experimental
+Primary Ciliary Dyskinesia,Ciliary Structural Variant,18,Severe,"1 in 500,000",No,Experimental
+Batten Disease,Juvenile,39,Severe,"1 in 500,000",No,Experimental
+Primary Ciliary Dyskinesia,Ciliary Structural Variant,43,Mild,"1 in 100,000",No,Available
+Fibrodysplasia Ossificans Progressiva,Mild FOP,67,Mild,"1 in 1,000,000",No,Available
+Alkaptonuria,Mild,34,Moderate,"1 in 1,000,000",Yes,Experimental
+Hypophosphatasia,Infantile,68,Mild,"1 in 500,000",No,Experimental
+Fibrodysplasia Ossificans Progressiva,Classic FOP,75,Mild,"1 in 100,000",Yes,Experimental
+Ehlers-Danlos Syndrome,Classical,69,Moderate,"1 in 100,000",No,Available
+Hypophosphatasia,Infantile,17,Mild,"1 in 1,000,000",Yes,Available
+Batten Disease,Adult-onset,12,Severe,"1 in 100,000",Yes,Not Available
+Alkaptonuria,Severe,71,Moderate,"1 in 1,000,000",No,Experimental
+Batten Disease,Adult-onset,22,Moderate,"1 in 1,000,000",Yes,Experimental
+Ehlers-Danlos Syndrome,Hypermobile,33,Mild,"1 in 1,000,000",No,Available
+Batten Disease,Adult-onset,59,Mild,"1 in 100,000",No,Available
+Hypophosphatasia,Infantile,5,Mild,"1 in 1,000,000",No,Experimental
+Primary Ciliary Dyskinesia,Ciliary Structural Variant,41,Mild,"1 in 500,000",No,Available
+Fibrodysplasia Ossificans Progressiva,Variant FOP,54,Mild,"1 in 100,000",No,Not Available
+Hutchinson-Gilford Progeria Syndrome,Atypical HGPS,22,Severe,"1 in 100,000",Yes,Experimental
+Hallervorden-Spatz Disease,Juvenile,22,Severe,"1 in 1,000,000",No,Experimental
+Alkaptonuria,Severe,55,Mild,"1 in 500,000",Yes,Experimental
+Hallervorden-Spatz Disease,Atypical,61,Moderate,"1 in 500,000",Yes,Available
+Niemann-Pick Disease,Type B,12,Severe,"1 in 1,000,000",Yes,Not Available
+Ehlers-Danlos Syndrome,Hypermobile,12,Moderate,"1 in 1,000,000",Yes,Experimental
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,14,Mild,"1 in 500,000",No,Not Available
+Alkaptonuria,Moderate,64,Mild,"1 in 100,000",Yes,Available
+Fibrodysplasia Ossificans Progressiva,Variant FOP,58,Mild,"1 in 500,000",No,Experimental
+Alkaptonuria,Severe,7,Moderate,"1 in 100,000",No,Available
+Fibrodysplasia Ossificans Progressiva,Classic FOP,47,Moderate,"1 in 500,000",Yes,Not Available
+Batten Disease,Juvenile,29,Mild,"1 in 100,000",Yes,Available
+Hutchinson-Gilford Progeria Syndrome,Atypical HGPS,41,Moderate,"1 in 500,000",Yes,Available
+Fibrodysplasia Ossificans Progressiva,Variant FOP,44,Mild,"1 in 1,000,000",Yes,Available
+Maple Syrup Urine Disease,Intermediate,65,Mild,"1 in 1,000,000",No,Available
+Ehlers-Danlos Syndrome,Classical,3,Severe,"1 in 1,000,000",Yes,Available
+Maple Syrup Urine Disease,Intermittent,49,Mild,"1 in 500,000",Yes,Available
+Maple Syrup Urine Disease,Intermittent,59,Moderate,"1 in 100,000",No,Not Available
+Maple Syrup Urine Disease,Intermittent,18,Moderate,"1 in 1,000,000",No,Experimental
+Alkaptonuria,Mild,40,Mild,"1 in 100,000",Yes,Available
+Fibrodysplasia Ossificans Progressiva,Classic FOP,26,Moderate,"1 in 1,000,000",Yes,Available
+Primary Ciliary Dyskinesia,Ciliary Structural Variant,72,Mild,"1 in 100,000",Yes,Not Available
+Niemann-Pick Disease,Type C,14,Mild,"1 in 100,000",No,Experimental
+Ehlers-Danlos Syndrome,Classical,34,Severe,"1 in 100,000",Yes,Not Available
+Maple Syrup Urine Disease,Classic,30,Moderate,"1 in 100,000",Yes,Not Available
+Hypophosphatasia,Adult,63,Severe,"1 in 100,000",Yes,Experimental
+Fibrodysplasia Ossificans Progressiva,Variant FOP,35,Mild,"1 in 500,000",Yes,Experimental
+Niemann-Pick Disease,Type C,62,Severe,"1 in 100,000",Yes,Not Available
+Primary Ciliary Dyskinesia,Ciliary Structural Variant,52,Moderate,"1 in 1,000,000",No,Available
+Hallervorden-Spatz Disease,Classic,14,Mild,"1 in 100,000",No,Available
+Maple Syrup Urine Disease,Intermittent,48,Moderate,"1 in 100,000",Yes,Experimental
+Ehlers-Danlos Syndrome,Vascular,43,Mild,"1 in 500,000",No,Experimental
+Alkaptonuria,Mild,22,Mild,"1 in 1,000,000",No,Experimental
+Alkaptonuria,Severe,26,Mild,"1 in 500,000",No,Not Available
+Hypophosphatasia,Perinatal,40,Moderate,"1 in 1,000,000",No,Available
+Maple Syrup Urine Disease,Intermittent,20,Mild,"1 in 1,000,000",No,Available
+Maple Syrup Urine Disease,Intermediate,49,Mild,"1 in 1,000,000",Yes,Experimental
+Maple Syrup Urine Disease,Classic,34,Mild,"1 in 100,000",Yes,Available
+Maple Syrup Urine Disease,Classic,5,Severe,"1 in 500,000",No,Experimental
+Alkaptonuria,Severe,55,Severe,"1 in 100,000",Yes,Available
+Hutchinson-Gilford Progeria Syndrome,Classic HGPS,20,Moderate,"1 in 1,000,000",Yes,Available
+Fibrodysplasia Ossificans Progressiva,Mild FOP,71,Mild,"1 in 500,000",Yes,Experimental
+Alkaptonuria,Moderate,47,Severe,"1 in 500,000",No,Not Available
+Hypophosphatasia,Infantile,67,Moderate,"1 in 1,000,000",No,Not Available
+Ehlers-Danlos Syndrome,Classical,22,Mild,"1 in 1,000,000",No,Not Available
+Batten Disease,Infantile,41,Moderate,"1 in 1,000,000",No,Available
+Primary Ciliary Dyskinesia,Respiratory Variant,24,Mild,"1 in 1,000,000",No,Experimental
+Hallervorden-Spatz Disease,Juvenile,66,Severe,"1 in 500,000",Yes,Experimental
+Hypophosphatasia,Infantile,15,Severe,"1 in 500,000",No,Available
+Niemann-Pick Disease,Type B,14,Severe,"1 in 1,000,000",Yes,Available
+Ehlers-Danlos Syndrome,Classical,26,Moderate,"1 in 100,000",No,Experimental
+Batten Disease,Juvenile,52,Mild,"1 in 500,000",No,Experimental
+Fibrodysplasia Ossificans Progressiva,Variant FOP,19,Mild,"1 in 500,000",No,Experimental
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,15,Severe,"1 in 1,000,000",No,Available
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,14,Mild,"1 in 500,000",Yes,Experimental
+Hypophosphatasia,Perinatal,40,Mild,"1 in 100,000",No,Experimental
+Fibrodysplasia Ossificans Progressiva,Variant FOP,64,Severe,"1 in 500,000",No,Experimental
+Hypophosphatasia,Perinatal,71,Mild,"1 in 1,000,000",No,Experimental
+Batten Disease,Juvenile,79,Moderate,"1 in 100,000",No,Not Available
+Hypophosphatasia,Adult,44,Mild,"1 in 100,000",Yes,Experimental
+Hutchinson-Gilford Progeria Syndrome,Juvenile Progeria,45,Severe,"1 in 500,000",Yes,Available
+Niemann-Pick Disease,Type B,75,Severe,"1 in 1,000,000",Yes,Available
+Hallervorden-Spatz Disease,Atypical,36,Severe,"1 in 500,000",Yes,Not Available
+Alkaptonuria,Severe,33,Moderate,"1 in 100,000",Yes,Not Available
+Hallervorden-Spatz Disease,Classic,68,Moderate,"1 in 1,000,000",No,Experimental
+Alkaptonuria,Moderate,44,Moderate,"1 in 500,000",Yes,Experimental
+Maple Syrup Urine Disease,Intermediate,66,Severe,"1 in 100,000",No,Experimental
+Alkaptonuria,Severe,47,Mild,"1 in 500,000",No,Not Available
+Ehlers-Danlos Syndrome,Hypermobile,11,Mild,"1 in 100,000",Yes,Experimental
+Fibrodysplasia Ossificans Progressiva,Classic FOP,39,Severe,"1 in 100,000",Yes,Not Available
+Maple Syrup Urine Disease,Classic,76,Mild,"1 in 500,000",No,Not Available
+Batten Disease,Adult-onset,68,Severe,"1 in 500,000",No,Available
+Hypophosphatasia,Adult,29,Mild,"1 in 100,000",Yes,Available
+Hallervorden-Spatz Disease,Atypical,39,Severe,"1 in 100,000",Yes,Available
+Niemann-Pick Disease,Type A,60,Severe,"1 in 1,000,000",Yes,Not Available
+Batten Disease,Adult-onset,13,Moderate,"1 in 100,000",No,Experimental
+Alkaptonuria,Mild,70,Moderate,"1 in 1,000,000",Yes,Not Available
+Maple Syrup Urine Disease,Classic,19,Mild,"1 in 1,000,000",No,Experimental
+Maple Syrup Urine Disease,Intermediate,52,Moderate,"1 in 100,000",No,Experimental
+Maple Syrup Urine Disease,Intermediate,80,Moderate,"1 in 1,000,000",No,Experimental
+Hypophosphatasia,Infantile,12,Mild,"1 in 1,000,000",Yes,Experimental
+Batten Disease,Adult-onset,10,Moderate,"1 in 1,000,000",Yes,Available
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,79,Moderate,"1 in 1,000,000",No,Experimental
+Hutchinson-Gilford Progeria Syndrome,Classic HGPS,25,Mild,"1 in 1,000,000",No,Experimental
+Fibrodysplasia Ossificans Progressiva,Variant FOP,14,Severe,"1 in 500,000",Yes,Not Available
+Batten Disease,Juvenile,41,Moderate,"1 in 100,000",No,Experimental
+Batten Disease,Adult-onset,48,Severe,"1 in 100,000",Yes,Experimental
+Alkaptonuria,Mild,22,Severe,"1 in 500,000",No,Experimental
+Niemann-Pick Disease,Type C,30,Moderate,"1 in 500,000",No,Available
+Batten Disease,Juvenile,53,Severe,"1 in 100,000",No,Not Available
+Niemann-Pick Disease,Type B,13,Severe,"1 in 100,000",No,Not Available
+Primary Ciliary Dyskinesia,Ciliary Structural Variant,54,Moderate,"1 in 500,000",No,Experimental
+Hypophosphatasia,Adult,62,Moderate,"1 in 100,000",No,Not Available
+Primary Ciliary Dyskinesia,Respiratory Variant,31,Mild,"1 in 1,000,000",No,Available
+Hallervorden-Spatz Disease,Classic,50,Moderate,"1 in 500,000",No,Not Available
+Niemann-Pick Disease,Type A,78,Moderate,"1 in 1,000,000",Yes,Experimental
+Hallervorden-Spatz Disease,Classic,53,Severe,"1 in 500,000",Yes,Available
+Fibrodysplasia Ossificans Progressiva,Classic FOP,33,Moderate,"1 in 100,000",No,Available
+Maple Syrup Urine Disease,Intermediate,10,Moderate,"1 in 100,000",No,Not Available
+Niemann-Pick Disease,Type B,12,Mild,"1 in 500,000",No,Available
+Niemann-Pick Disease,Type C,58,Severe,"1 in 100,000",No,Not Available
+Niemann-Pick Disease,Type A,73,Moderate,"1 in 100,000",No,Experimental
+Maple Syrup Urine Disease,Intermittent,64,Moderate,"1 in 1,000,000",Yes,Not Available
+Niemann-Pick Disease,Type A,67,Moderate,"1 in 1,000,000",No,Experimental
+Fibrodysplasia Ossificans Progressiva,Variant FOP,49,Severe,"1 in 100,000",No,Experimental
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,43,Severe,"1 in 1,000,000",Yes,Not Available
+Fibrodysplasia Ossificans Progressiva,Classic FOP,5,Mild,"1 in 1,000,000",Yes,Not Available
+Niemann-Pick Disease,Type B,20,Moderate,"1 in 100,000",No,Available
+Hallervorden-Spatz Disease,Classic,29,Moderate,"1 in 500,000",Yes,Available
+Maple Syrup Urine Disease,Intermittent,5,Severe,"1 in 100,000",No,Available
+Hypophosphatasia,Perinatal,36,Mild,"1 in 100,000",No,Experimental
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,73,Moderate,"1 in 100,000",Yes,Experimental
+Alkaptonuria,Moderate,44,Moderate,"1 in 500,000",No,Experimental
+Niemann-Pick Disease,Type B,24,Mild,"1 in 1,000,000",No,Not Available
+Fibrodysplasia Ossificans Progressiva,Mild FOP,11,Severe,"1 in 1,000,000",Yes,Available
+Alkaptonuria,Mild,26,Moderate,"1 in 100,000",No,Experimental
+Alkaptonuria,Severe,2,Severe,"1 in 100,000",No,Experimental
+Niemann-Pick Disease,Type C,63,Mild,"1 in 1,000,000",Yes,Not Available
+Batten Disease,Juvenile,51,Severe,"1 in 100,000",Yes,Available
+Alkaptonuria,Moderate,60,Mild,"1 in 1,000,000",No,Available
+Batten Disease,Juvenile,19,Severe,"1 in 100,000",Yes,Experimental
+Hypophosphatasia,Infantile,28,Moderate,"1 in 1,000,000",Yes,Available
+Ehlers-Danlos Syndrome,Hypermobile,27,Mild,"1 in 100,000",No,Available
+Ehlers-Danlos Syndrome,Classical,29,Moderate,"1 in 1,000,000",No,Experimental
+Hallervorden-Spatz Disease,Classic,8,Moderate,"1 in 1,000,000",No,Available
+Maple Syrup Urine Disease,Intermittent,6,Severe,"1 in 500,000",No,Not Available
+Maple Syrup Urine Disease,Classic,31,Mild,"1 in 1,000,000",No,Experimental
+Hutchinson-Gilford Progeria Syndrome,Juvenile Progeria,11,Severe,"1 in 1,000,000",Yes,Experimental
+Maple Syrup Urine Disease,Classic,9,Mild,"1 in 1,000,000",No,Available
+Hallervorden-Spatz Disease,Classic,24,Severe,"1 in 1,000,000",Yes,Available
+Hallervorden-Spatz Disease,Atypical,64,Moderate,"1 in 500,000",No,Experimental
+Maple Syrup Urine Disease,Intermittent,26,Moderate,"1 in 500,000",Yes,Not Available
+Maple Syrup Urine Disease,Intermediate,53,Mild,"1 in 500,000",No,Available
+Batten Disease,Infantile,43,Moderate,"1 in 500,000",Yes,Not Available
+Niemann-Pick Disease,Type C,50,Severe,"1 in 500,000",No,Not Available
+Batten Disease,Infantile,19,Moderate,"1 in 1,000,000",No,Not Available
+Primary Ciliary Dyskinesia,Ciliary Structural Variant,26,Moderate,"1 in 100,000",No,Available
+Alkaptonuria,Severe,6,Moderate,"1 in 1,000,000",No,Experimental
+Hallervorden-Spatz Disease,Atypical,44,Mild,"1 in 500,000",Yes,Available
+Batten Disease,Juvenile,21,Moderate,"1 in 1,000,000",No,Available
+Batten Disease,Adult-onset,57,Mild,"1 in 1,000,000",Yes,Not Available
+Alkaptonuria,Moderate,16,Mild,"1 in 500,000",No,Available
+Batten Disease,Infantile,12,Moderate,"1 in 1,000,000",No,Experimental
+Alkaptonuria,Severe,71,Severe,"1 in 100,000",Yes,Experimental
+Maple Syrup Urine Disease,Intermediate,21,Mild,"1 in 500,000",Yes,Available
+Primary Ciliary Dyskinesia,Respiratory Variant,7,Severe,"1 in 500,000",Yes,Not Available
+Niemann-Pick Disease,Type B,68,Mild,"1 in 100,000",Yes,Experimental
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,12,Severe,"1 in 500,000",Yes,Available
+Alkaptonuria,Severe,35,Moderate,"1 in 100,000",Yes,Not Available
+Fibrodysplasia Ossificans Progressiva,Classic FOP,45,Moderate,"1 in 500,000",Yes,Experimental
+Fibrodysplasia Ossificans Progressiva,Mild FOP,26,Mild,"1 in 100,000",No,Available
+Hutchinson-Gilford Progeria Syndrome,Atypical HGPS,32,Mild,"1 in 1,000,000",No,Not Available
+Primary Ciliary Dyskinesia,Respiratory Variant,70,Moderate,"1 in 100,000",No,Experimental
+Hutchinson-Gilford Progeria Syndrome,Classic HGPS,46,Moderate,"1 in 1,000,000",No,Available
+Alkaptonuria,Mild,8,Moderate,"1 in 500,000",Yes,Available
+Hallervorden-Spatz Disease,Atypical,15,Severe,"1 in 100,000",No,Experimental
+Hutchinson-Gilford Progeria Syndrome,Atypical HGPS,47,Severe,"1 in 500,000",Yes,Experimental
+Alkaptonuria,Mild,11,Severe,"1 in 1,000,000",No,Available
+Maple Syrup Urine Disease,Intermediate,36,Moderate,"1 in 500,000",Yes,Not Available
+Hutchinson-Gilford Progeria Syndrome,Atypical HGPS,36,Moderate,"1 in 1,000,000",Yes,Not Available
+Niemann-Pick Disease,Type C,24,Moderate,"1 in 500,000",Yes,Not Available
+Hypophosphatasia,Adult,68,Severe,"1 in 500,000",No,Experimental
+Maple Syrup Urine Disease,Intermediate,53,Mild,"1 in 100,000",No,Available
+Ehlers-Danlos Syndrome,Hypermobile,38,Mild,"1 in 100,000",No,Available
+Niemann-Pick Disease,Type A,13,Moderate,"1 in 1,000,000",Yes,Experimental
+Hallervorden-Spatz Disease,Classic,69,Severe,"1 in 100,000",Yes,Not Available
+Alkaptonuria,Mild,6,Mild,"1 in 500,000",Yes,Available
+Batten Disease,Adult-onset,39,Moderate,"1 in 1,000,000",No,Not Available
+Alkaptonuria,Severe,1,Moderate,"1 in 100,000",No,Available
+Primary Ciliary Dyskinesia,Ciliary Structural Variant,28,Mild,"1 in 100,000",Yes,Not Available
+Hallervorden-Spatz Disease,Classic,17,Mild,"1 in 500,000",No,Experimental
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,7,Mild,"1 in 1,000,000",Yes,Experimental
+Batten Disease,Infantile,59,Mild,"1 in 500,000",No,Available
+Hutchinson-Gilford Progeria Syndrome,Atypical HGPS,28,Moderate,"1 in 100,000",No,Experimental
+Batten Disease,Juvenile,25,Severe,"1 in 500,000",Yes,Available
+Fibrodysplasia Ossificans Progressiva,Variant FOP,27,Severe,"1 in 500,000",No,Experimental
+Primary Ciliary Dyskinesia,Respiratory Variant,19,Severe,"1 in 100,000",No,Available
+Hutchinson-Gilford Progeria Syndrome,Classic HGPS,16,Mild,"1 in 500,000",Yes,Experimental
+Ehlers-Danlos Syndrome,Classical,64,Mild,"1 in 100,000",Yes,Experimental
+Niemann-Pick Disease,Type C,5,Mild,"1 in 1,000,000",Yes,Not Available
+Ehlers-Danlos Syndrome,Classical,8,Mild,"1 in 100,000",No,Available
+Batten Disease,Infantile,4,Severe,"1 in 500,000",Yes,Experimental
+Hutchinson-Gilford Progeria Syndrome,Atypical HGPS,78,Severe,"1 in 500,000",Yes,Not Available
+Alkaptonuria,Moderate,22,Moderate,"1 in 1,000,000",No,Available
+Niemann-Pick Disease,Type C,36,Mild,"1 in 1,000,000",Yes,Experimental
+Primary Ciliary Dyskinesia,Respiratory Variant,29,Moderate,"1 in 100,000",Yes,Available
+Fibrodysplasia Ossificans Progressiva,Classic FOP,7,Moderate,"1 in 100,000",No,Available
+Niemann-Pick Disease,Type A,4,Severe,"1 in 100,000",No,Available
+Hallervorden-Spatz Disease,Classic,38,Severe,"1 in 500,000",Yes,Not Available
+Fibrodysplasia Ossificans Progressiva,Mild FOP,78,Moderate,"1 in 1,000,000",Yes,Not Available
+Niemann-Pick Disease,Type B,36,Mild,"1 in 500,000",Yes,Not Available
+Primary Ciliary Dyskinesia,Ciliary Structural Variant,46,Mild,"1 in 100,000",Yes,Experimental
+Maple Syrup Urine Disease,Classic,57,Severe,"1 in 100,000",Yes,Not Available
+Fibrodysplasia Ossificans Progressiva,Classic FOP,28,Mild,"1 in 1,000,000",No,Not Available
+Hutchinson-Gilford Progeria Syndrome,Juvenile Progeria,20,Moderate,"1 in 500,000",No,Available
+Batten Disease,Adult-onset,29,Moderate,"1 in 1,000,000",No,Not Available
+Hallervorden-Spatz Disease,Classic,63,Severe,"1 in 500,000",No,Not Available
+Alkaptonuria,Severe,33,Severe,"1 in 1,000,000",Yes,Not Available
+Batten Disease,Infantile,16,Moderate,"1 in 1,000,000",No,Not Available
+Ehlers-Danlos Syndrome,Hypermobile,16,Mild,"1 in 1,000,000",Yes,Experimental
+Ehlers-Danlos Syndrome,Hypermobile,46,Moderate,"1 in 100,000",Yes,Available
+Ehlers-Danlos Syndrome,Hypermobile,72,Moderate,"1 in 100,000",No,Not Available
+Primary Ciliary Dyskinesia,Respiratory Variant,6,Moderate,"1 in 500,000",No,Experimental
+Maple Syrup Urine Disease,Intermittent,22,Mild,"1 in 100,000",Yes,Experimental
+Alkaptonuria,Severe,18,Severe,"1 in 100,000",No,Experimental
+Ehlers-Danlos Syndrome,Vascular,48,Moderate,"1 in 100,000",No,Available
+Batten Disease,Adult-onset,58,Severe,"1 in 500,000",No,Experimental
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,54,Moderate,"1 in 500,000",No,Not Available
+Hallervorden-Spatz Disease,Atypical,74,Moderate,"1 in 500,000",No,Experimental
+Ehlers-Danlos Syndrome,Classical,37,Mild,"1 in 500,000",Yes,Experimental
+Alkaptonuria,Mild,4,Mild,"1 in 500,000",No,Available
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,61,Moderate,"1 in 1,000,000",Yes,Available
+Niemann-Pick Disease,Type A,36,Moderate,"1 in 1,000,000",Yes,Available
+Hutchinson-Gilford Progeria Syndrome,Atypical HGPS,69,Severe,"1 in 1,000,000",Yes,Not Available
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,14,Mild,"1 in 500,000",No,Available
+Alkaptonuria,Severe,22,Mild,"1 in 1,000,000",No,Available
+Niemann-Pick Disease,Type A,5,Moderate,"1 in 500,000",Yes,Available
+Maple Syrup Urine Disease,Intermittent,35,Severe,"1 in 100,000",No,Experimental
+Maple Syrup Urine Disease,Intermediate,29,Moderate,"1 in 100,000",No,Not Available
+Maple Syrup Urine Disease,Classic,49,Mild,"1 in 500,000",No,Experimental
+Hypophosphatasia,Adult,12,Mild,"1 in 1,000,000",No,Available
+Maple Syrup Urine Disease,Intermediate,34,Moderate,"1 in 1,000,000",Yes,Experimental
+Hutchinson-Gilford Progeria Syndrome,Juvenile Progeria,2,Moderate,"1 in 500,000",Yes,Available
+Ehlers-Danlos Syndrome,Vascular,14,Severe,"1 in 1,000,000",Yes,Experimental
+Hutchinson-Gilford Progeria Syndrome,Atypical HGPS,47,Severe,"1 in 1,000,000",No,Not Available
+Hypophosphatasia,Perinatal,37,Mild,"1 in 100,000",Yes,Experimental
+Primary Ciliary Dyskinesia,Respiratory Variant,13,Mild,"1 in 500,000",Yes,Available
+Primary Ciliary Dyskinesia,Respiratory Variant,5,Moderate,"1 in 100,000",No,Available
+Maple Syrup Urine Disease,Intermittent,42,Mild,"1 in 1,000,000",Yes,Available
+Batten Disease,Infantile,25,Severe,"1 in 1,000,000",Yes,Experimental
+Batten Disease,Adult-onset,19,Severe,"1 in 1,000,000",Yes,Experimental
+Fibrodysplasia Ossificans Progressiva,Variant FOP,75,Severe,"1 in 1,000,000",Yes,Experimental
+Niemann-Pick Disease,Type B,62,Severe,"1 in 500,000",Yes,Experimental
+Alkaptonuria,Moderate,68,Mild,"1 in 1,000,000",Yes,Experimental
+Hypophosphatasia,Adult,17,Severe,"1 in 1,000,000",No,Available
+Fibrodysplasia Ossificans Progressiva,Variant FOP,64,Moderate,"1 in 1,000,000",Yes,Available
+Alkaptonuria,Severe,68,Severe,"1 in 1,000,000",No,Experimental
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,2,Severe,"1 in 1,000,000",Yes,Available
+Maple Syrup Urine Disease,Classic,47,Moderate,"1 in 100,000",No,Not Available
+Fibrodysplasia Ossificans Progressiva,Variant FOP,70,Severe,"1 in 1,000,000",No,Experimental
+Maple Syrup Urine Disease,Classic,56,Moderate,"1 in 1,000,000",Yes,Available
+Batten Disease,Infantile,71,Severe,"1 in 100,000",Yes,Experimental
+Hypophosphatasia,Adult,20,Moderate,"1 in 1,000,000",Yes,Experimental
+Hallervorden-Spatz Disease,Classic,5,Moderate,"1 in 1,000,000",Yes,Available
+Hypophosphatasia,Infantile,41,Mild,"1 in 1,000,000",No,Available
+Hallervorden-Spatz Disease,Atypical,35,Severe,"1 in 500,000",No,Not Available
+Niemann-Pick Disease,Type A,8,Moderate,"1 in 500,000",No,Not Available
+Hallervorden-Spatz Disease,Classic,69,Moderate,"1 in 1,000,000",No,Available
+Niemann-Pick Disease,Type B,69,Mild,"1 in 500,000",Yes,Experimental
+Maple Syrup Urine Disease,Intermittent,79,Severe,"1 in 100,000",No,Not Available
+Niemann-Pick Disease,Type C,33,Severe,"1 in 100,000",No,Not Available
+Hypophosphatasia,Infantile,54,Severe,"1 in 1,000,000",Yes,Experimental
+Hallervorden-Spatz Disease,Atypical,6,Severe,"1 in 1,000,000",No,Not Available
+Maple Syrup Urine Disease,Classic,27,Severe,"1 in 1,000,000",No,Not Available
+Maple Syrup Urine Disease,Intermediate,40,Severe,"1 in 100,000",Yes,Available
+Fibrodysplasia Ossificans Progressiva,Variant FOP,7,Mild,"1 in 100,000",Yes,Available
+Alkaptonuria,Moderate,33,Moderate,"1 in 1,000,000",No,Available
+Hutchinson-Gilford Progeria Syndrome,Atypical HGPS,7,Moderate,"1 in 100,000",No,Available
+Maple Syrup Urine Disease,Classic,71,Moderate,"1 in 1,000,000",No,Available
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,60,Severe,"1 in 1,000,000",No,Experimental
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,8,Moderate,"1 in 100,000",No,Experimental
+Hypophosphatasia,Infantile,77,Mild,"1 in 1,000,000",Yes,Experimental
+Hypophosphatasia,Adult,16,Severe,"1 in 100,000",Yes,Available
+Hypophosphatasia,Perinatal,50,Moderate,"1 in 500,000",Yes,Available
+Hypophosphatasia,Adult,14,Severe,"1 in 100,000",No,Experimental
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,69,Severe,"1 in 100,000",Yes,Experimental
+Batten Disease,Adult-onset,68,Severe,"1 in 500,000",No,Available
+Primary Ciliary Dyskinesia,Ciliary Structural Variant,49,Moderate,"1 in 500,000",Yes,Not Available
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,22,Severe,"1 in 500,000",Yes,Not Available
+Alkaptonuria,Mild,68,Moderate,"1 in 1,000,000",Yes,Experimental
+Fibrodysplasia Ossificans Progressiva,Mild FOP,65,Mild,"1 in 1,000,000",Yes,Not Available
+Niemann-Pick Disease,Type B,64,Moderate,"1 in 500,000",No,Available
+Batten Disease,Infantile,66,Severe,"1 in 500,000",Yes,Available
+Niemann-Pick Disease,Type C,78,Mild,"1 in 100,000",Yes,Available
+Alkaptonuria,Mild,13,Mild,"1 in 100,000",No,Experimental
+Maple Syrup Urine Disease,Intermittent,59,Mild,"1 in 100,000",Yes,Available
+Maple Syrup Urine Disease,Classic,13,Mild,"1 in 500,000",Yes,Available
+Hypophosphatasia,Adult,5,Mild,"1 in 500,000",No,Experimental
+Fibrodysplasia Ossificans Progressiva,Variant FOP,43,Moderate,"1 in 500,000",Yes,Available
+Fibrodysplasia Ossificans Progressiva,Classic FOP,39,Moderate,"1 in 100,000",Yes,Experimental
+Hutchinson-Gilford Progeria Syndrome,Classic HGPS,22,Moderate,"1 in 500,000",No,Not Available
+Alkaptonuria,Severe,71,Moderate,"1 in 1,000,000",Yes,Not Available
+Hallervorden-Spatz Disease,Atypical,52,Moderate,"1 in 100,000",No,Experimental
+Hallervorden-Spatz Disease,Atypical,66,Mild,"1 in 100,000",Yes,Available
+Maple Syrup Urine Disease,Intermediate,18,Mild,"1 in 1,000,000",No,Experimental
+Alkaptonuria,Severe,70,Mild,"1 in 1,000,000",Yes,Experimental
+Fibrodysplasia Ossificans Progressiva,Classic FOP,70,Severe,"1 in 100,000",Yes,Experimental
+Batten Disease,Adult-onset,10,Moderate,"1 in 500,000",Yes,Available
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,1,Moderate,"1 in 500,000",Yes,Not Available
+Niemann-Pick Disease,Type A,69,Severe,"1 in 1,000,000",Yes,Not Available
+Alkaptonuria,Severe,21,Moderate,"1 in 100,000",No,Not Available
+Fibrodysplasia Ossificans Progressiva,Mild FOP,46,Mild,"1 in 100,000",No,Experimental
+Fibrodysplasia Ossificans Progressiva,Mild FOP,40,Severe,"1 in 100,000",No,Experimental
+Niemann-Pick Disease,Type A,72,Severe,"1 in 500,000",Yes,Not Available
+Batten Disease,Infantile,42,Severe,"1 in 1,000,000",No,Experimental
+Primary Ciliary Dyskinesia,Respiratory Variant,44,Severe,"1 in 500,000",Yes,Not Available
+Maple Syrup Urine Disease,Classic,40,Mild,"1 in 500,000",No,Available
+Hutchinson-Gilford Progeria Syndrome,Atypical HGPS,65,Mild,"1 in 500,000",No,Available
+Hypophosphatasia,Adult,49,Mild,"1 in 100,000",No,Available
+Ehlers-Danlos Syndrome,Classical,75,Mild,"1 in 1,000,000",No,Not Available
+Fibrodysplasia Ossificans Progressiva,Classic FOP,36,Severe,"1 in 1,000,000",No,Experimental
+Maple Syrup Urine Disease,Intermediate,47,Severe,"1 in 100,000",No,Experimental
+Niemann-Pick Disease,Type A,47,Moderate,"1 in 1,000,000",Yes,Available
+Batten Disease,Juvenile,58,Moderate,"1 in 500,000",No,Available
+Primary Ciliary Dyskinesia,Ciliary Structural Variant,61,Moderate,"1 in 1,000,000",No,Not Available
+Maple Syrup Urine Disease,Intermittent,65,Moderate,"1 in 100,000",Yes,Experimental
+Hypophosphatasia,Perinatal,22,Mild,"1 in 100,000",No,Not Available
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,23,Moderate,"1 in 100,000",No,Experimental
+Hallervorden-Spatz Disease,Classic,60,Severe,"1 in 1,000,000",Yes,Experimental
+Fibrodysplasia Ossificans Progressiva,Classic FOP,67,Moderate,"1 in 500,000",Yes,Not Available
+Maple Syrup Urine Disease,Intermediate,59,Moderate,"1 in 1,000,000",Yes,Available
+Niemann-Pick Disease,Type A,71,Moderate,"1 in 500,000",No,Not Available
+Maple Syrup Urine Disease,Intermediate,19,Moderate,"1 in 100,000",Yes,Not Available
+Alkaptonuria,Mild,66,Moderate,"1 in 1,000,000",Yes,Available
+Fibrodysplasia Ossificans Progressiva,Mild FOP,61,Severe,"1 in 500,000",Yes,Not Available
+Fibrodysplasia Ossificans Progressiva,Mild FOP,10,Moderate,"1 in 100,000",Yes,Experimental
+Niemann-Pick Disease,Type C,46,Severe,"1 in 1,000,000",No,Experimental
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,46,Moderate,"1 in 500,000",No,Not Available
+Hutchinson-Gilford Progeria Syndrome,Classic HGPS,79,Severe,"1 in 100,000",Yes,Available
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,70,Severe,"1 in 500,000",Yes,Not Available
+Hallervorden-Spatz Disease,Classic,48,Moderate,"1 in 1,000,000",Yes,Experimental
+Alkaptonuria,Moderate,70,Mild,"1 in 1,000,000",No,Experimental
+Maple Syrup Urine Disease,Intermediate,60,Severe,"1 in 1,000,000",Yes,Not Available
+Hallervorden-Spatz Disease,Atypical,41,Severe,"1 in 500,000",No,Experimental
+Batten Disease,Juvenile,1,Moderate,"1 in 100,000",Yes,Experimental
+Batten Disease,Juvenile,60,Moderate,"1 in 500,000",No,Experimental
+Maple Syrup Urine Disease,Intermediate,13,Mild,"1 in 500,000",No,Not Available
+Hypophosphatasia,Infantile,24,Mild,"1 in 500,000",Yes,Not Available
+Batten Disease,Infantile,48,Moderate,"1 in 1,000,000",Yes,Not Available
+Primary Ciliary Dyskinesia,Respiratory Variant,80,Mild,"1 in 100,000",Yes,Not Available
+Primary Ciliary Dyskinesia,Respiratory Variant,29,Severe,"1 in 1,000,000",Yes,Not Available
+Maple Syrup Urine Disease,Intermediate,23,Mild,"1 in 100,000",No,Experimental
+Alkaptonuria,Moderate,8,Moderate,"1 in 100,000",Yes,Not Available
+Ehlers-Danlos Syndrome,Classical,67,Severe,"1 in 500,000",No,Available
+Fibrodysplasia Ossificans Progressiva,Variant FOP,26,Severe,"1 in 1,000,000",Yes,Not Available
+Ehlers-Danlos Syndrome,Classical,35,Mild,"1 in 100,000",No,Available
+Hutchinson-Gilford Progeria Syndrome,Atypical HGPS,69,Moderate,"1 in 100,000",Yes,Not Available
+Fibrodysplasia Ossificans Progressiva,Mild FOP,52,Moderate,"1 in 1,000,000",Yes,Not Available
+Alkaptonuria,Mild,19,Mild,"1 in 100,000",Yes,Available
+Maple Syrup Urine Disease,Classic,36,Mild,"1 in 1,000,000",Yes,Available
+Hutchinson-Gilford Progeria Syndrome,Atypical HGPS,57,Mild,"1 in 1,000,000",Yes,Experimental
+Batten Disease,Juvenile,51,Mild,"1 in 500,000",Yes,Experimental
+Niemann-Pick Disease,Type A,62,Severe,"1 in 1,000,000",No,Not Available
+Ehlers-Danlos Syndrome,Hypermobile,34,Mild,"1 in 1,000,000",Yes,Available
+Maple Syrup Urine Disease,Classic,63,Severe,"1 in 100,000",Yes,Experimental
+Hallervorden-Spatz Disease,Classic,48,Severe,"1 in 500,000",Yes,Available
+Alkaptonuria,Moderate,46,Mild,"1 in 500,000",Yes,Available
+Hypophosphatasia,Infantile,4,Moderate,"1 in 100,000",Yes,Experimental
+Niemann-Pick Disease,Type B,68,Severe,"1 in 100,000",Yes,Not Available
+Alkaptonuria,Moderate,16,Mild,"1 in 500,000",Yes,Available
+Hypophosphatasia,Adult,63,Severe,"1 in 1,000,000",No,Available
+Niemann-Pick Disease,Type B,30,Severe,"1 in 1,000,000",Yes,Available
+Hypophosphatasia,Adult,5,Moderate,"1 in 1,000,000",Yes,Available
+Hallervorden-Spatz Disease,Atypical,3,Moderate,"1 in 100,000",No,Experimental
+Hutchinson-Gilford Progeria Syndrome,Atypical HGPS,58,Severe,"1 in 1,000,000",No,Available
+Niemann-Pick Disease,Type B,43,Mild,"1 in 500,000",No,Not Available
+Ehlers-Danlos Syndrome,Hypermobile,55,Moderate,"1 in 100,000",Yes,Not Available
+Alkaptonuria,Moderate,37,Mild,"1 in 100,000",Yes,Experimental
+Hallervorden-Spatz Disease,Atypical,15,Moderate,"1 in 100,000",No,Experimental
+Primary Ciliary Dyskinesia,Ciliary Structural Variant,17,Severe,"1 in 500,000",No,Available
+Hutchinson-Gilford Progeria Syndrome,Atypical HGPS,22,Moderate,"1 in 500,000",No,Not Available
+Primary Ciliary Dyskinesia,Ciliary Structural Variant,51,Severe,"1 in 100,000",Yes,Experimental
+Fibrodysplasia Ossificans Progressiva,Variant FOP,16,Moderate,"1 in 500,000",No,Not Available
+Batten Disease,Juvenile,64,Moderate,"1 in 100,000",No,Not Available
+Primary Ciliary Dyskinesia,Respiratory Variant,40,Severe,"1 in 100,000",No,Available
+Alkaptonuria,Mild,53,Severe,"1 in 100,000",Yes,Available
+Batten Disease,Juvenile,24,Mild,"1 in 1,000,000",Yes,Experimental
+Primary Ciliary Dyskinesia,Respiratory Variant,59,Moderate,"1 in 100,000",Yes,Available
+Hallervorden-Spatz Disease,Juvenile,29,Moderate,"1 in 100,000",Yes,Available
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,54,Mild,"1 in 500,000",No,Experimental
+Hallervorden-Spatz Disease,Classic,40,Mild,"1 in 100,000",No,Not Available
+Alkaptonuria,Severe,38,Moderate,"1 in 1,000,000",Yes,Not Available
+Niemann-Pick Disease,Type B,21,Mild,"1 in 100,000",No,Experimental
+Ehlers-Danlos Syndrome,Hypermobile,37,Moderate,"1 in 100,000",Yes,Not Available
+Hutchinson-Gilford Progeria Syndrome,Atypical HGPS,75,Severe,"1 in 500,000",No,Experimental
+Fibrodysplasia Ossificans Progressiva,Mild FOP,19,Mild,"1 in 1,000,000",No,Not Available
+Maple Syrup Urine Disease,Intermittent,69,Mild,"1 in 100,000",Yes,Not Available
+Fibrodysplasia Ossificans Progressiva,Mild FOP,79,Severe,"1 in 1,000,000",No,Not Available
+Niemann-Pick Disease,Type B,55,Moderate,"1 in 1,000,000",Yes,Available
+Niemann-Pick Disease,Type C,30,Severe,"1 in 1,000,000",Yes,Not Available
+Niemann-Pick Disease,Type C,10,Mild,"1 in 1,000,000",Yes,Available
+Hallervorden-Spatz Disease,Classic,8,Moderate,"1 in 500,000",No,Not Available
+Batten Disease,Infantile,36,Mild,"1 in 500,000",Yes,Experimental
+Maple Syrup Urine Disease,Intermediate,54,Mild,"1 in 1,000,000",No,Experimental
+Maple Syrup Urine Disease,Intermediate,24,Severe,"1 in 100,000",No,Not Available
+Fibrodysplasia Ossificans Progressiva,Mild FOP,43,Mild,"1 in 100,000",Yes,Not Available
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,12,Mild,"1 in 1,000,000",No,Experimental
+Ehlers-Danlos Syndrome,Hypermobile,51,Severe,"1 in 1,000,000",No,Not Available
+Fibrodysplasia Ossificans Progressiva,Classic FOP,46,Mild,"1 in 500,000",No,Experimental
+Fibrodysplasia Ossificans Progressiva,Mild FOP,40,Mild,"1 in 100,000",No,Experimental
+Primary Ciliary Dyskinesia,Respiratory Variant,21,Mild,"1 in 100,000",Yes,Available
+Hutchinson-Gilford Progeria Syndrome,Classic HGPS,1,Mild,"1 in 100,000",Yes,Not Available
+Alkaptonuria,Moderate,39,Moderate,"1 in 500,000",No,Not Available
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,16,Severe,"1 in 500,000",Yes,Not Available
+Ehlers-Danlos Syndrome,Hypermobile,1,Mild,"1 in 500,000",Yes,Available
+Batten Disease,Adult-onset,2,Mild,"1 in 1,000,000",Yes,Experimental
+Maple Syrup Urine Disease,Intermediate,44,Mild,"1 in 100,000",No,Experimental
+Maple Syrup Urine Disease,Intermediate,66,Severe,"1 in 100,000",Yes,Available
+Fibrodysplasia Ossificans Progressiva,Classic FOP,45,Mild,"1 in 100,000",No,Not Available
+Hutchinson-Gilford Progeria Syndrome,Classic HGPS,1,Moderate,"1 in 1,000,000",No,Available
+Batten Disease,Adult-onset,9,Mild,"1 in 500,000",No,Experimental
+Niemann-Pick Disease,Type B,46,Mild,"1 in 1,000,000",Yes,Available
+Hallervorden-Spatz Disease,Juvenile,59,Severe,"1 in 1,000,000",Yes,Available
+Fibrodysplasia Ossificans Progressiva,Mild FOP,52,Mild,"1 in 500,000",Yes,Experimental
+Hutchinson-Gilford Progeria Syndrome,Juvenile Progeria,75,Mild,"1 in 100,000",No,Not Available
+Hutchinson-Gilford Progeria Syndrome,Juvenile Progeria,32,Mild,"1 in 1,000,000",No,Not Available
+Ehlers-Danlos Syndrome,Hypermobile,40,Mild,"1 in 500,000",Yes,Experimental
+Hutchinson-Gilford Progeria Syndrome,Classic HGPS,44,Moderate,"1 in 100,000",No,Experimental
+Hallervorden-Spatz Disease,Juvenile,64,Moderate,"1 in 1,000,000",Yes,Not Available
+Batten Disease,Adult-onset,46,Severe,"1 in 1,000,000",Yes,Experimental
+Niemann-Pick Disease,Type B,74,Mild,"1 in 500,000",No,Not Available
+Primary Ciliary Dyskinesia,Respiratory Variant,58,Moderate,"1 in 1,000,000",Yes,Not Available
+Maple Syrup Urine Disease,Intermediate,3,Mild,"1 in 100,000",No,Not Available
+Ehlers-Danlos Syndrome,Vascular,38,Severe,"1 in 500,000",No,Not Available
+Niemann-Pick Disease,Type B,65,Moderate,"1 in 100,000",No,Experimental
+Hypophosphatasia,Perinatal,46,Severe,"1 in 100,000",Yes,Not Available
+Hallervorden-Spatz Disease,Juvenile,71,Mild,"1 in 500,000",No,Experimental
+Hutchinson-Gilford Progeria Syndrome,Atypical HGPS,6,Severe,"1 in 100,000",No,Not Available
+Alkaptonuria,Severe,9,Moderate,"1 in 500,000",No,Not Available
+Primary Ciliary Dyskinesia,Ciliary Structural Variant,26,Severe,"1 in 500,000",No,Available
+Hypophosphatasia,Perinatal,35,Severe,"1 in 1,000,000",Yes,Not Available
+Hallervorden-Spatz Disease,Atypical,41,Severe,"1 in 500,000",No,Available
+Hypophosphatasia,Adult,78,Mild,"1 in 100,000",No,Experimental
+Fibrodysplasia Ossificans Progressiva,Mild FOP,34,Severe,"1 in 1,000,000",No,Experimental
+Fibrodysplasia Ossificans Progressiva,Variant FOP,78,Mild,"1 in 100,000",Yes,Available
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,77,Mild,"1 in 1,000,000",Yes,Not Available
+Fibrodysplasia Ossificans Progressiva,Mild FOP,62,Moderate,"1 in 500,000",No,Not Available
+Batten Disease,Adult-onset,71,Mild,"1 in 100,000",Yes,Experimental
+Primary Ciliary Dyskinesia,Respiratory Variant,66,Severe,"1 in 500,000",No,Available
+Hallervorden-Spatz Disease,Juvenile,9,Mild,"1 in 1,000,000",No,Experimental
+Alkaptonuria,Moderate,52,Severe,"1 in 500,000",No,Experimental
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,76,Moderate,"1 in 500,000",Yes,Not Available
+Hallervorden-Spatz Disease,Juvenile,34,Severe,"1 in 1,000,000",Yes,Available
+Hutchinson-Gilford Progeria Syndrome,Juvenile Progeria,69,Moderate,"1 in 100,000",No,Experimental
+Niemann-Pick Disease,Type B,27,Severe,"1 in 100,000",Yes,Available
+Hypophosphatasia,Adult,76,Severe,"1 in 500,000",No,Not Available
+Niemann-Pick Disease,Type C,55,Mild,"1 in 500,000",Yes,Experimental
+Alkaptonuria,Severe,42,Severe,"1 in 100,000",Yes,Experimental
+Primary Ciliary Dyskinesia,Respiratory Variant,3,Mild,"1 in 100,000",No,Experimental
+Niemann-Pick Disease,Type A,25,Severe,"1 in 500,000",No,Not Available
+Hallervorden-Spatz Disease,Classic,10,Mild,"1 in 1,000,000",Yes,Experimental
+Hutchinson-Gilford Progeria Syndrome,Classic HGPS,25,Severe,"1 in 500,000",Yes,Experimental
+Maple Syrup Urine Disease,Classic,57,Severe,"1 in 100,000",Yes,Not Available
+Hypophosphatasia,Infantile,64,Moderate,"1 in 1,000,000",Yes,Available
+Alkaptonuria,Severe,5,Moderate,"1 in 100,000",Yes,Experimental
+Niemann-Pick Disease,Type C,32,Severe,"1 in 500,000",Yes,Not Available
+Hypophosphatasia,Infantile,39,Moderate,"1 in 1,000,000",No,Not Available
+Hallervorden-Spatz Disease,Atypical,48,Severe,"1 in 500,000",No,Available
+Batten Disease,Infantile,8,Mild,"1 in 500,000",No,Available
+Hallervorden-Spatz Disease,Juvenile,13,Moderate,"1 in 1,000,000",No,Not Available
+Hutchinson-Gilford Progeria Syndrome,Juvenile Progeria,41,Moderate,"1 in 1,000,000",Yes,Not Available
+Maple Syrup Urine Disease,Intermediate,78,Moderate,"1 in 100,000",Yes,Available
+Alkaptonuria,Severe,8,Mild,"1 in 500,000",Yes,Not Available
+Alkaptonuria,Moderate,69,Severe,"1 in 1,000,000",No,Experimental
+Fibrodysplasia Ossificans Progressiva,Classic FOP,30,Mild,"1 in 500,000",No,Available
+Hypophosphatasia,Perinatal,14,Moderate,"1 in 100,000",Yes,Experimental
+Niemann-Pick Disease,Type A,65,Moderate,"1 in 100,000",Yes,Available
+Hypophosphatasia,Perinatal,21,Severe,"1 in 100,000",Yes,Experimental
+Niemann-Pick Disease,Type A,72,Mild,"1 in 500,000",Yes,Available
+Hallervorden-Spatz Disease,Juvenile,37,Moderate,"1 in 500,000",No,Available
+Ehlers-Danlos Syndrome,Hypermobile,21,Severe,"1 in 100,000",No,Experimental
+Ehlers-Danlos Syndrome,Hypermobile,23,Mild,"1 in 100,000",Yes,Not Available
+Fibrodysplasia Ossificans Progressiva,Mild FOP,53,Moderate,"1 in 100,000",No,Experimental
+Maple Syrup Urine Disease,Intermittent,2,Moderate,"1 in 100,000",No,Experimental
+Ehlers-Danlos Syndrome,Vascular,61,Moderate,"1 in 100,000",No,Experimental
+Batten Disease,Infantile,34,Mild,"1 in 1,000,000",Yes,Not Available
+Ehlers-Danlos Syndrome,Vascular,4,Severe,"1 in 500,000",No,Not Available
+Hypophosphatasia,Perinatal,60,Moderate,"1 in 100,000",No,Experimental
+Maple Syrup Urine Disease,Intermittent,19,Moderate,"1 in 100,000",No,Not Available
+Primary Ciliary Dyskinesia,Ciliary Structural Variant,3,Moderate,"1 in 500,000",No,Experimental
+Niemann-Pick Disease,Type B,42,Mild,"1 in 100,000",Yes,Experimental
+Maple Syrup Urine Disease,Classic,63,Severe,"1 in 1,000,000",No,Experimental
+Batten Disease,Adult-onset,36,Mild,"1 in 1,000,000",Yes,Not Available
+Primary Ciliary Dyskinesia,Respiratory Variant,45,Severe,"1 in 100,000",Yes,Not Available
+Primary Ciliary Dyskinesia,Respiratory Variant,2,Moderate,"1 in 100,000",No,Not Available
+Ehlers-Danlos Syndrome,Classical,78,Moderate,"1 in 1,000,000",No,Available
+Batten Disease,Adult-onset,69,Mild,"1 in 100,000",Yes,Experimental
+Primary Ciliary Dyskinesia,Ciliary Structural Variant,78,Mild,"1 in 100,000",Yes,Not Available
+Fibrodysplasia Ossificans Progressiva,Variant FOP,47,Severe,"1 in 500,000",No,Available
+Hypophosphatasia,Adult,28,Severe,"1 in 1,000,000",Yes,Available
+Ehlers-Danlos Syndrome,Classical,25,Severe,"1 in 100,000",Yes,Not Available
+Hallervorden-Spatz Disease,Atypical,46,Severe,"1 in 100,000",Yes,Available
+Ehlers-Danlos Syndrome,Hypermobile,31,Moderate,"1 in 1,000,000",No,Experimental
+Ehlers-Danlos Syndrome,Classical,79,Mild,"1 in 100,000",No,Not Available
+Batten Disease,Juvenile,17,Severe,"1 in 1,000,000",No,Available
+Ehlers-Danlos Syndrome,Hypermobile,42,Moderate,"1 in 500,000",No,Not Available
+Primary Ciliary Dyskinesia,Respiratory Variant,6,Mild,"1 in 500,000",Yes,Not Available
+Fibrodysplasia Ossificans Progressiva,Classic FOP,73,Mild,"1 in 1,000,000",No,Not Available
+Ehlers-Danlos Syndrome,Classical,46,Severe,"1 in 1,000,000",No,Experimental
+Fibrodysplasia Ossificans Progressiva,Mild FOP,48,Mild,"1 in 100,000",Yes,Not Available
+Primary Ciliary Dyskinesia,Respiratory Variant,40,Severe,"1 in 100,000",No,Available
+Alkaptonuria,Moderate,16,Severe,"1 in 100,000",No,Available
+Primary Ciliary Dyskinesia,Ciliary Structural Variant,16,Mild,"1 in 1,000,000",No,Available
+Ehlers-Danlos Syndrome,Hypermobile,1,Severe,"1 in 100,000",Yes,Not Available
+Hallervorden-Spatz Disease,Juvenile,61,Moderate,"1 in 100,000",Yes,Not Available
+Hutchinson-Gilford Progeria Syndrome,Classic HGPS,73,Mild,"1 in 1,000,000",No,Experimental
+Hypophosphatasia,Adult,55,Moderate,"1 in 100,000",Yes,Experimental
+Hallervorden-Spatz Disease,Atypical,33,Severe,"1 in 500,000",No,Not Available
+Batten Disease,Infantile,49,Severe,"1 in 100,000",Yes,Available
+Alkaptonuria,Moderate,16,Mild,"1 in 100,000",Yes,Experimental
+Hutchinson-Gilford Progeria Syndrome,Juvenile Progeria,39,Severe,"1 in 500,000",No,Available
+Fibrodysplasia Ossificans Progressiva,Variant FOP,57,Severe,"1 in 1,000,000",Yes,Not Available
+Hallervorden-Spatz Disease,Juvenile,73,Mild,"1 in 100,000",Yes,Experimental
+Ehlers-Danlos Syndrome,Vascular,1,Moderate,"1 in 1,000,000",No,Not Available
+Fibrodysplasia Ossificans Progressiva,Classic FOP,80,Mild,"1 in 500,000",No,Available
+Ehlers-Danlos Syndrome,Hypermobile,36,Severe,"1 in 1,000,000",Yes,Available
+Batten Disease,Infantile,64,Severe,"1 in 100,000",Yes,Experimental
+Batten Disease,Adult-onset,5,Mild,"1 in 100,000",Yes,Available
+Alkaptonuria,Mild,45,Mild,"1 in 500,000",Yes,Available
+Primary Ciliary Dyskinesia,Respiratory Variant,69,Mild,"1 in 100,000",Yes,Available
+Primary Ciliary Dyskinesia,Respiratory Variant,44,Severe,"1 in 100,000",No,Not Available
+Ehlers-Danlos Syndrome,Hypermobile,16,Severe,"1 in 500,000",No,Available
+Ehlers-Danlos Syndrome,Vascular,41,Moderate,"1 in 500,000",No,Not Available
+Maple Syrup Urine Disease,Intermediate,9,Mild,"1 in 500,000",No,Experimental
+Alkaptonuria,Moderate,59,Moderate,"1 in 500,000",No,Experimental
+Primary Ciliary Dyskinesia,Respiratory Variant,46,Moderate,"1 in 100,000",Yes,Available
+Maple Syrup Urine Disease,Intermittent,25,Mild,"1 in 1,000,000",Yes,Experimental
+Ehlers-Danlos Syndrome,Classical,38,Mild,"1 in 500,000",No,Experimental
+Hallervorden-Spatz Disease,Classic,9,Severe,"1 in 100,000",No,Not Available
+Hallervorden-Spatz Disease,Classic,14,Mild,"1 in 500,000",No,Not Available
+Maple Syrup Urine Disease,Classic,65,Severe,"1 in 1,000,000",Yes,Experimental
+Batten Disease,Adult-onset,12,Mild,"1 in 1,000,000",No,Experimental
+Hutchinson-Gilford Progeria Syndrome,Juvenile Progeria,12,Moderate,"1 in 1,000,000",Yes,Not Available
+Batten Disease,Juvenile,32,Mild,"1 in 100,000",Yes,Available
+Batten Disease,Infantile,69,Mild,"1 in 100,000",No,Not Available
+Niemann-Pick Disease,Type A,46,Moderate,"1 in 1,000,000",Yes,Experimental
+Niemann-Pick Disease,Type A,2,Severe,"1 in 100,000",No,Experimental
+Batten Disease,Juvenile,35,Mild,"1 in 100,000",Yes,Experimental
+Alkaptonuria,Severe,14,Moderate,"1 in 1,000,000",No,Available
+Hallervorden-Spatz Disease,Classic,14,Moderate,"1 in 1,000,000",Yes,Experimental
+Niemann-Pick Disease,Type B,42,Moderate,"1 in 1,000,000",Yes,Not Available
+Fibrodysplasia Ossificans Progressiva,Mild FOP,40,Mild,"1 in 500,000",Yes,Experimental
+Hypophosphatasia,Perinatal,29,Severe,"1 in 500,000",No,Experimental
+Alkaptonuria,Severe,22,Severe,"1 in 100,000",Yes,Available
+Fibrodysplasia Ossificans Progressiva,Classic FOP,1,Severe,"1 in 500,000",No,Not Available
+Ehlers-Danlos Syndrome,Vascular,67,Severe,"1 in 500,000",Yes,Experimental
+Alkaptonuria,Severe,61,Moderate,"1 in 1,000,000",No,Available
+Hypophosphatasia,Perinatal,3,Severe,"1 in 100,000",Yes,Not Available
+Hallervorden-Spatz Disease,Juvenile,53,Severe,"1 in 500,000",Yes,Available
+Batten Disease,Juvenile,39,Moderate,"1 in 500,000",No,Experimental
+Maple Syrup Urine Disease,Intermittent,68,Mild,"1 in 100,000",No,Available
+Niemann-Pick Disease,Type B,16,Severe,"1 in 1,000,000",Yes,Experimental
+Hallervorden-Spatz Disease,Classic,35,Moderate,"1 in 1,000,000",No,Available
+Hypophosphatasia,Adult,36,Moderate,"1 in 1,000,000",Yes,Not Available
+Ehlers-Danlos Syndrome,Classical,36,Moderate,"1 in 500,000",No,Experimental
+Batten Disease,Infantile,64,Moderate,"1 in 100,000",Yes,Available
+Hallervorden-Spatz Disease,Juvenile,53,Moderate,"1 in 1,000,000",Yes,Experimental
+Batten Disease,Adult-onset,36,Mild,"1 in 500,000",Yes,Not Available
+Hypophosphatasia,Perinatal,29,Severe,"1 in 1,000,000",No,Not Available
+Hypophosphatasia,Perinatal,75,Severe,"1 in 100,000",No,Available
+Hypophosphatasia,Perinatal,57,Severe,"1 in 1,000,000",No,Not Available
+Maple Syrup Urine Disease,Intermittent,14,Mild,"1 in 500,000",Yes,Available
+Maple Syrup Urine Disease,Intermittent,50,Severe,"1 in 100,000",Yes,Experimental
+Ehlers-Danlos Syndrome,Classical,49,Severe,"1 in 100,000",Yes,Not Available
+Batten Disease,Infantile,69,Mild,"1 in 1,000,000",No,Available
+Fibrodysplasia Ossificans Progressiva,Classic FOP,34,Severe,"1 in 500,000",Yes,Not Available
+Fibrodysplasia Ossificans Progressiva,Classic FOP,59,Moderate,"1 in 500,000",Yes,Not Available
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,32,Mild,"1 in 100,000",No,Experimental
+Ehlers-Danlos Syndrome,Hypermobile,76,Moderate,"1 in 100,000",Yes,Not Available
+Hallervorden-Spatz Disease,Juvenile,67,Severe,"1 in 500,000",No,Available
+Hutchinson-Gilford Progeria Syndrome,Juvenile Progeria,75,Moderate,"1 in 500,000",No,Available
+Niemann-Pick Disease,Type C,62,Moderate,"1 in 1,000,000",No,Not Available
+Batten Disease,Infantile,72,Moderate,"1 in 500,000",No,Not Available
+Fibrodysplasia Ossificans Progressiva,Variant FOP,6,Mild,"1 in 100,000",No,Available
+Alkaptonuria,Moderate,70,Severe,"1 in 100,000",No,Experimental
+Maple Syrup Urine Disease,Intermediate,77,Mild,"1 in 1,000,000",No,Available
+Hutchinson-Gilford Progeria Syndrome,Atypical HGPS,50,Severe,"1 in 500,000",No,Available
+Primary Ciliary Dyskinesia,Ciliary Structural Variant,41,Mild,"1 in 1,000,000",No,Experimental
+Batten Disease,Infantile,50,Severe,"1 in 1,000,000",No,Available
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,15,Moderate,"1 in 1,000,000",No,Available
+Batten Disease,Infantile,18,Mild,"1 in 500,000",Yes,Available
+Batten Disease,Juvenile,57,Mild,"1 in 1,000,000",No,Not Available
+Maple Syrup Urine Disease,Intermittent,75,Severe,"1 in 100,000",No,Not Available
+Hallervorden-Spatz Disease,Atypical,39,Mild,"1 in 500,000",No,Not Available
+Batten Disease,Adult-onset,57,Severe,"1 in 500,000",No,Not Available
+Hallervorden-Spatz Disease,Classic,75,Severe,"1 in 100,000",No,Not Available
+Maple Syrup Urine Disease,Classic,57,Severe,"1 in 100,000",Yes,Not Available
+Hutchinson-Gilford Progeria Syndrome,Juvenile Progeria,71,Severe,"1 in 1,000,000",Yes,Available
+Niemann-Pick Disease,Type A,10,Mild,"1 in 100,000",No,Not Available
+Ehlers-Danlos Syndrome,Vascular,1,Moderate,"1 in 1,000,000",Yes,Experimental
+Niemann-Pick Disease,Type B,12,Mild,"1 in 1,000,000",No,Available
+Alkaptonuria,Moderate,17,Moderate,"1 in 1,000,000",No,Experimental
+Fibrodysplasia Ossificans Progressiva,Mild FOP,46,Moderate,"1 in 100,000",Yes,Available
+Ehlers-Danlos Syndrome,Hypermobile,61,Mild,"1 in 100,000",No,Available
+Niemann-Pick Disease,Type A,64,Severe,"1 in 1,000,000",No,Not Available
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,10,Severe,"1 in 100,000",Yes,Not Available
+Fibrodysplasia Ossificans Progressiva,Variant FOP,8,Severe,"1 in 1,000,000",Yes,Not Available
+Batten Disease,Infantile,21,Moderate,"1 in 500,000",Yes,Not Available
+Niemann-Pick Disease,Type C,45,Moderate,"1 in 1,000,000",Yes,Not Available
+Maple Syrup Urine Disease,Classic,59,Moderate,"1 in 1,000,000",Yes,Experimental
+Hutchinson-Gilford Progeria Syndrome,Juvenile Progeria,32,Moderate,"1 in 1,000,000",No,Experimental
+Hutchinson-Gilford Progeria Syndrome,Juvenile Progeria,53,Mild,"1 in 500,000",Yes,Available
+Hutchinson-Gilford Progeria Syndrome,Classic HGPS,18,Moderate,"1 in 500,000",Yes,Experimental
+Hutchinson-Gilford Progeria Syndrome,Atypical HGPS,69,Severe,"1 in 100,000",Yes,Available
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,16,Mild,"1 in 1,000,000",Yes,Not Available
+Primary Ciliary Dyskinesia,Ciliary Structural Variant,14,Mild,"1 in 1,000,000",Yes,Not Available
+Ehlers-Danlos Syndrome,Vascular,63,Severe,"1 in 500,000",No,Available
+Hallervorden-Spatz Disease,Atypical,39,Severe,"1 in 500,000",No,Available
+Hypophosphatasia,Perinatal,20,Mild,"1 in 100,000",Yes,Not Available
+Batten Disease,Infantile,6,Mild,"1 in 1,000,000",No,Available
+Ehlers-Danlos Syndrome,Vascular,26,Mild,"1 in 500,000",Yes,Experimental
+Hutchinson-Gilford Progeria Syndrome,Atypical HGPS,6,Severe,"1 in 500,000",No,Not Available
+Ehlers-Danlos Syndrome,Hypermobile,43,Severe,"1 in 100,000",No,Experimental
+Hypophosphatasia,Infantile,11,Moderate,"1 in 1,000,000",Yes,Not Available
+Fibrodysplasia Ossificans Progressiva,Variant FOP,58,Moderate,"1 in 100,000",No,Not Available
+Niemann-Pick Disease,Type B,79,Severe,"1 in 100,000",Yes,Available
+Alkaptonuria,Mild,25,Moderate,"1 in 500,000",No,Experimental
+Hutchinson-Gilford Progeria Syndrome,Atypical HGPS,35,Mild,"1 in 100,000",Yes,Available
+Hutchinson-Gilford Progeria Syndrome,Juvenile Progeria,8,Mild,"1 in 500,000",Yes,Available
+Hallervorden-Spatz Disease,Classic,24,Mild,"1 in 1,000,000",No,Available
+Hallervorden-Spatz Disease,Classic,6,Moderate,"1 in 500,000",Yes,Experimental
+Primary Ciliary Dyskinesia,Respiratory Variant,79,Moderate,"1 in 100,000",Yes,Experimental
+Maple Syrup Urine Disease,Intermediate,25,Moderate,"1 in 100,000",Yes,Not Available
+Hutchinson-Gilford Progeria Syndrome,Juvenile Progeria,40,Severe,"1 in 1,000,000",Yes,Not Available
+Fibrodysplasia Ossificans Progressiva,Classic FOP,49,Moderate,"1 in 500,000",Yes,Not Available
+Hutchinson-Gilford Progeria Syndrome,Atypical HGPS,44,Severe,"1 in 500,000",No,Experimental
+Maple Syrup Urine Disease,Intermittent,43,Mild,"1 in 100,000",No,Available
+Hypophosphatasia,Adult,69,Mild,"1 in 1,000,000",Yes,Not Available
+Alkaptonuria,Severe,57,Mild,"1 in 100,000",No,Experimental
+Hypophosphatasia,Adult,59,Mild,"1 in 100,000",No,Experimental
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,52,Mild,"1 in 100,000",No,Experimental
+Alkaptonuria,Severe,71,Mild,"1 in 100,000",Yes,Experimental
+Hallervorden-Spatz Disease,Juvenile,37,Moderate,"1 in 100,000",No,Not Available
+Hallervorden-Spatz Disease,Juvenile,22,Mild,"1 in 1,000,000",No,Available
+Hallervorden-Spatz Disease,Atypical,76,Mild,"1 in 100,000",No,Not Available
+Maple Syrup Urine Disease,Intermediate,66,Moderate,"1 in 1,000,000",Yes,Experimental
+Alkaptonuria,Moderate,48,Severe,"1 in 1,000,000",Yes,Available
+Fibrodysplasia Ossificans Progressiva,Mild FOP,10,Moderate,"1 in 500,000",No,Experimental
+Batten Disease,Infantile,53,Mild,"1 in 500,000",Yes,Not Available
+Alkaptonuria,Mild,42,Mild,"1 in 100,000",No,Available
+Fibrodysplasia Ossificans Progressiva,Variant FOP,35,Mild,"1 in 100,000",Yes,Available
+Maple Syrup Urine Disease,Intermittent,45,Severe,"1 in 500,000",Yes,Not Available
+Hutchinson-Gilford Progeria Syndrome,Classic HGPS,73,Moderate,"1 in 100,000",Yes,Available
+Ehlers-Danlos Syndrome,Hypermobile,78,Severe,"1 in 1,000,000",No,Available
+Hutchinson-Gilford Progeria Syndrome,Juvenile Progeria,54,Mild,"1 in 500,000",No,Available
+Alkaptonuria,Severe,39,Mild,"1 in 1,000,000",Yes,Experimental
+Hutchinson-Gilford Progeria Syndrome,Classic HGPS,26,Severe,"1 in 500,000",Yes,Available
+Primary Ciliary Dyskinesia,Ciliary Structural Variant,25,Severe,"1 in 1,000,000",No,Experimental
+Batten Disease,Adult-onset,76,Severe,"1 in 1,000,000",No,Experimental
+Hypophosphatasia,Infantile,14,Mild,"1 in 100,000",No,Experimental
+Niemann-Pick Disease,Type B,46,Severe,"1 in 100,000",No,Not Available
+Primary Ciliary Dyskinesia,Ciliary Structural Variant,58,Severe,"1 in 1,000,000",Yes,Experimental
+Batten Disease,Juvenile,16,Severe,"1 in 500,000",No,Not Available
+Maple Syrup Urine Disease,Intermediate,58,Severe,"1 in 500,000",Yes,Available
+Niemann-Pick Disease,Type C,71,Severe,"1 in 1,000,000",No,Not Available
+Niemann-Pick Disease,Type B,65,Severe,"1 in 1,000,000",Yes,Not Available
+Niemann-Pick Disease,Type B,55,Severe,"1 in 1,000,000",Yes,Experimental
+Maple Syrup Urine Disease,Classic,29,Moderate,"1 in 1,000,000",Yes,Not Available
+Ehlers-Danlos Syndrome,Vascular,20,Moderate,"1 in 100,000",Yes,Experimental
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,76,Moderate,"1 in 500,000",No,Experimental
+Maple Syrup Urine Disease,Intermittent,23,Moderate,"1 in 1,000,000",No,Experimental
+Hypophosphatasia,Perinatal,12,Severe,"1 in 100,000",No,Experimental
+Niemann-Pick Disease,Type B,73,Mild,"1 in 500,000",Yes,Available
+Maple Syrup Urine Disease,Intermediate,29,Severe,"1 in 1,000,000",Yes,Experimental
+Primary Ciliary Dyskinesia,Ciliary Structural Variant,4,Moderate,"1 in 1,000,000",No,Not Available
+Niemann-Pick Disease,Type C,41,Severe,"1 in 1,000,000",No,Available
+Hypophosphatasia,Adult,60,Severe,"1 in 100,000",Yes,Not Available
+Ehlers-Danlos Syndrome,Vascular,75,Severe,"1 in 100,000",No,Available
+Batten Disease,Juvenile,29,Mild,"1 in 500,000",No,Available
+Primary Ciliary Dyskinesia,Ciliary Structural Variant,63,Moderate,"1 in 1,000,000",Yes,Experimental
+Alkaptonuria,Severe,7,Moderate,"1 in 1,000,000",Yes,Available
+Maple Syrup Urine Disease,Intermittent,47,Moderate,"1 in 500,000",Yes,Experimental
+Ehlers-Danlos Syndrome,Classical,78,Severe,"1 in 1,000,000",Yes,Available
+Ehlers-Danlos Syndrome,Hypermobile,8,Mild,"1 in 500,000",Yes,Available
+Hutchinson-Gilford Progeria Syndrome,Juvenile Progeria,54,Severe,"1 in 100,000",No,Not Available
+Ehlers-Danlos Syndrome,Hypermobile,20,Severe,"1 in 1,000,000",No,Not Available
+Niemann-Pick Disease,Type C,74,Moderate,"1 in 500,000",No,Not Available
+Alkaptonuria,Mild,40,Mild,"1 in 100,000",Yes,Available
+Maple Syrup Urine Disease,Classic,32,Mild,"1 in 100,000",Yes,Not Available
+Hypophosphatasia,Adult,51,Mild,"1 in 500,000",Yes,Not Available
+Hallervorden-Spatz Disease,Atypical,34,Severe,"1 in 1,000,000",No,Experimental
+Alkaptonuria,Severe,30,Severe,"1 in 1,000,000",No,Available
+Hypophosphatasia,Perinatal,17,Severe,"1 in 1,000,000",No,Experimental
+Ehlers-Danlos Syndrome,Hypermobile,74,Mild,"1 in 100,000",No,Available
+Niemann-Pick Disease,Type A,70,Mild,"1 in 500,000",Yes,Experimental
+Niemann-Pick Disease,Type A,29,Mild,"1 in 1,000,000",Yes,Experimental
+Hutchinson-Gilford Progeria Syndrome,Atypical HGPS,21,Severe,"1 in 500,000",No,Experimental
+Batten Disease,Juvenile,4,Severe,"1 in 100,000",Yes,Not Available
+Batten Disease,Juvenile,3,Moderate,"1 in 1,000,000",No,Not Available
+Ehlers-Danlos Syndrome,Classical,50,Mild,"1 in 500,000",Yes,Not Available
+Hypophosphatasia,Adult,11,Mild,"1 in 100,000",No,Experimental
+Batten Disease,Adult-onset,57,Mild,"1 in 500,000",No,Available
+Ehlers-Danlos Syndrome,Hypermobile,28,Mild,"1 in 500,000",Yes,Not Available
+Maple Syrup Urine Disease,Intermittent,54,Moderate,"1 in 500,000",Yes,Experimental
+Alkaptonuria,Severe,6,Mild,"1 in 1,000,000",Yes,Experimental
+Niemann-Pick Disease,Type A,27,Severe,"1 in 100,000",No,Not Available
+Primary Ciliary Dyskinesia,Ciliary Structural Variant,69,Moderate,"1 in 1,000,000",No,Available
+Alkaptonuria,Severe,20,Moderate,"1 in 1,000,000",Yes,Experimental
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,67,Severe,"1 in 1,000,000",No,Available
+Hallervorden-Spatz Disease,Juvenile,54,Severe,"1 in 100,000",No,Not Available
+Hallervorden-Spatz Disease,Juvenile,5,Moderate,"1 in 100,000",No,Experimental
+Niemann-Pick Disease,Type A,10,Mild,"1 in 500,000",Yes,Available
+Maple Syrup Urine Disease,Intermediate,49,Moderate,"1 in 500,000",No,Not Available
+Fibrodysplasia Ossificans Progressiva,Variant FOP,70,Mild,"1 in 100,000",Yes,Experimental
+Niemann-Pick Disease,Type A,73,Mild,"1 in 1,000,000",No,Not Available
+Hallervorden-Spatz Disease,Atypical,20,Severe,"1 in 500,000",No,Not Available
+Hutchinson-Gilford Progeria Syndrome,Juvenile Progeria,2,Mild,"1 in 500,000",No,Available
+Niemann-Pick Disease,Type A,33,Severe,"1 in 500,000",Yes,Not Available
+Maple Syrup Urine Disease,Classic,18,Mild,"1 in 1,000,000",No,Available
+Hutchinson-Gilford Progeria Syndrome,Juvenile Progeria,63,Moderate,"1 in 100,000",No,Experimental
+Fibrodysplasia Ossificans Progressiva,Classic FOP,16,Moderate,"1 in 1,000,000",Yes,Experimental
+Hypophosphatasia,Adult,79,Moderate,"1 in 1,000,000",Yes,Available
+Primary Ciliary Dyskinesia,Respiratory Variant,35,Moderate,"1 in 100,000",No,Not Available
+Hypophosphatasia,Perinatal,64,Moderate,"1 in 1,000,000",No,Available
+Batten Disease,Infantile,1,Moderate,"1 in 100,000",Yes,Not Available
+Maple Syrup Urine Disease,Classic,38,Mild,"1 in 100,000",Yes,Not Available
+Primary Ciliary Dyskinesia,Respiratory Variant,18,Mild,"1 in 500,000",Yes,Not Available
+Niemann-Pick Disease,Type B,80,Mild,"1 in 100,000",No,Not Available
+Hutchinson-Gilford Progeria Syndrome,Atypical HGPS,37,Mild,"1 in 1,000,000",Yes,Available
+Hypophosphatasia,Infantile,37,Mild,"1 in 1,000,000",Yes,Experimental
+Alkaptonuria,Moderate,29,Severe,"1 in 100,000",No,Available
+Hypophosphatasia,Adult,77,Severe,"1 in 500,000",Yes,Not Available
+Hypophosphatasia,Adult,58,Severe,"1 in 500,000",Yes,Available
+Fibrodysplasia Ossificans Progressiva,Mild FOP,36,Moderate,"1 in 100,000",Yes,Experimental
+Fibrodysplasia Ossificans Progressiva,Mild FOP,5,Moderate,"1 in 1,000,000",No,Available
+Hallervorden-Spatz Disease,Classic,22,Severe,"1 in 500,000",Yes,Available
+Ehlers-Danlos Syndrome,Hypermobile,69,Mild,"1 in 1,000,000",No,Not Available
+Ehlers-Danlos Syndrome,Hypermobile,40,Severe,"1 in 1,000,000",No,Not Available
+Hallervorden-Spatz Disease,Classic,28,Severe,"1 in 1,000,000",Yes,Available
+Primary Ciliary Dyskinesia,Respiratory Variant,24,Mild,"1 in 500,000",No,Experimental
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,58,Severe,"1 in 100,000",No,Experimental
+Primary Ciliary Dyskinesia,Ciliary Structural Variant,62,Mild,"1 in 100,000",No,Available
+Hypophosphatasia,Perinatal,2,Mild,"1 in 1,000,000",Yes,Experimental
+Alkaptonuria,Moderate,35,Moderate,"1 in 500,000",Yes,Experimental
+Hutchinson-Gilford Progeria Syndrome,Classic HGPS,63,Severe,"1 in 500,000",Yes,Experimental
+Hutchinson-Gilford Progeria Syndrome,Juvenile Progeria,70,Severe,"1 in 500,000",Yes,Experimental
+Maple Syrup Urine Disease,Classic,20,Moderate,"1 in 1,000,000",No,Experimental
+Niemann-Pick Disease,Type C,77,Mild,"1 in 100,000",Yes,Available
+Ehlers-Danlos Syndrome,Hypermobile,5,Mild,"1 in 100,000",Yes,Experimental
+Alkaptonuria,Severe,21,Severe,"1 in 1,000,000",Yes,Experimental
+Maple Syrup Urine Disease,Intermediate,21,Mild,"1 in 500,000",No,Available
+Hutchinson-Gilford Progeria Syndrome,Juvenile Progeria,1,Moderate,"1 in 1,000,000",No,Not Available
+Batten Disease,Adult-onset,18,Mild,"1 in 1,000,000",Yes,Not Available
+Hutchinson-Gilford Progeria Syndrome,Atypical HGPS,20,Severe,"1 in 1,000,000",No,Available
+Primary Ciliary Dyskinesia,Ciliary Structural Variant,18,Mild,"1 in 1,000,000",Yes,Available
+Ehlers-Danlos Syndrome,Vascular,46,Moderate,"1 in 1,000,000",No,Experimental
+Niemann-Pick Disease,Type B,80,Severe,"1 in 500,000",Yes,Not Available
+Fibrodysplasia Ossificans Progressiva,Variant FOP,22,Severe,"1 in 1,000,000",No,Experimental
+Primary Ciliary Dyskinesia,Ciliary Structural Variant,69,Moderate,"1 in 500,000",No,Available
+Batten Disease,Juvenile,78,Mild,"1 in 1,000,000",No,Experimental
+Hallervorden-Spatz Disease,Classic,26,Severe,"1 in 100,000",No,Experimental
+Batten Disease,Adult-onset,3,Moderate,"1 in 500,000",Yes,Experimental
+Batten Disease,Infantile,4,Moderate,"1 in 100,000",No,Available
+Alkaptonuria,Mild,3,Severe,"1 in 500,000",Yes,Experimental
+Batten Disease,Infantile,5,Severe,"1 in 500,000",No,Experimental
+Hypophosphatasia,Perinatal,8,Moderate,"1 in 100,000",Yes,Not Available
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,28,Mild,"1 in 100,000",No,Available
+Maple Syrup Urine Disease,Classic,22,Moderate,"1 in 500,000",No,Not Available
+Alkaptonuria,Moderate,76,Mild,"1 in 100,000",Yes,Available
+Niemann-Pick Disease,Type C,76,Moderate,"1 in 1,000,000",Yes,Not Available
+Hypophosphatasia,Adult,76,Severe,"1 in 500,000",Yes,Available
+Ehlers-Danlos Syndrome,Vascular,66,Moderate,"1 in 100,000",Yes,Experimental
+Niemann-Pick Disease,Type A,75,Moderate,"1 in 500,000",No,Available
+Fibrodysplasia Ossificans Progressiva,Variant FOP,45,Moderate,"1 in 1,000,000",Yes,Experimental
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,7,Severe,"1 in 100,000",No,Experimental
+Hypophosphatasia,Perinatal,59,Mild,"1 in 100,000",No,Experimental
+Fibrodysplasia Ossificans Progressiva,Variant FOP,13,Severe,"1 in 500,000",No,Experimental
+Hallervorden-Spatz Disease,Juvenile,68,Severe,"1 in 100,000",No,Not Available
+Maple Syrup Urine Disease,Intermittent,70,Mild,"1 in 100,000",Yes,Available
+Maple Syrup Urine Disease,Intermittent,64,Mild,"1 in 500,000",Yes,Available
+Batten Disease,Juvenile,16,Moderate,"1 in 100,000",No,Experimental
+Alkaptonuria,Mild,7,Moderate,"1 in 1,000,000",No,Available
+Fibrodysplasia Ossificans Progressiva,Mild FOP,79,Moderate,"1 in 500,000",Yes,Experimental
+Fibrodysplasia Ossificans Progressiva,Classic FOP,59,Mild,"1 in 500,000",Yes,Not Available
+Hutchinson-Gilford Progeria Syndrome,Atypical HGPS,61,Severe,"1 in 1,000,000",No,Not Available
+Batten Disease,Juvenile,15,Moderate,"1 in 500,000",Yes,Not Available
+Niemann-Pick Disease,Type A,66,Mild,"1 in 100,000",Yes,Available
+Primary Ciliary Dyskinesia,Ciliary Structural Variant,54,Moderate,"1 in 500,000",No,Not Available
+Alkaptonuria,Mild,16,Mild,"1 in 1,000,000",No,Available
+Maple Syrup Urine Disease,Intermediate,10,Moderate,"1 in 1,000,000",No,Experimental
+Maple Syrup Urine Disease,Classic,55,Moderate,"1 in 100,000",No,Available
+Niemann-Pick Disease,Type C,1,Moderate,"1 in 500,000",No,Not Available
+Hypophosphatasia,Infantile,6,Severe,"1 in 1,000,000",No,Experimental
+Alkaptonuria,Moderate,74,Severe,"1 in 1,000,000",Yes,Experimental
+Hypophosphatasia,Infantile,5,Mild,"1 in 100,000",Yes,Available
+Fibrodysplasia Ossificans Progressiva,Variant FOP,72,Moderate,"1 in 500,000",Yes,Not Available
+Hallervorden-Spatz Disease,Juvenile,49,Moderate,"1 in 100,000",Yes,Available
+Fibrodysplasia Ossificans Progressiva,Classic FOP,7,Mild,"1 in 500,000",Yes,Available
+Maple Syrup Urine Disease,Classic,45,Severe,"1 in 100,000",No,Experimental
+Hypophosphatasia,Infantile,17,Mild,"1 in 500,000",No,Available
+Hypophosphatasia,Perinatal,26,Severe,"1 in 1,000,000",Yes,Not Available
+Ehlers-Danlos Syndrome,Hypermobile,44,Mild,"1 in 500,000",Yes,Experimental
+Ehlers-Danlos Syndrome,Vascular,29,Mild,"1 in 1,000,000",Yes,Available
+Niemann-Pick Disease,Type C,11,Moderate,"1 in 500,000",Yes,Not Available
+Primary Ciliary Dyskinesia,Kartagener’s Syndrome,67,Moderate,"1 in 500,000",Yes,Available
+Hutchinson-Gilford Progeria Syndrome,Atypical HGPS,14,Moderate,"1 in 500,000",No,Available
+Niemann-Pick Disease,Type C,45,Moderate,"1 in 1,000,000",No,Not Available
+Niemann-Pick Disease,Type A,10,Severe,"1 in 500,000",No,Available
+Maple Syrup Urine Disease,Classic,53,Mild,"1 in 1,000,000",No,Not Available
+Niemann-Pick Disease,Type A,77,Severe,"1 in 500,000",No,Not Available
+Hypophosphatasia,Adult,49,Mild,"1 in 1,000,000",Yes,Available
+Alkaptonuria,Moderate,63,Severe,"1 in 100,000",Yes,Experimental
+Hallervorden-Spatz Disease,Classic,73,Mild,"1 in 500,000",No,Not Available
+Maple Syrup Urine Disease,Intermediate,63,Mild,"1 in 100,000",No,Not Available
+Fibrodysplasia Ossificans Progressiva,Variant FOP,1,Mild,"1 in 500,000",Yes,Available
+Niemann-Pick Disease,Type B,5,Severe,"1 in 1,000,000",Yes,Available
+Ehlers-Danlos Syndrome,Hypermobile,43,Severe,"1 in 1,000,000",Yes,Not Available
+Hypophosphatasia,Perinatal,75,Severe,"1 in 500,000",Yes,Not Available
+Batten Disease,Infantile,60,Mild,"1 in 500,000",No,Not Available
