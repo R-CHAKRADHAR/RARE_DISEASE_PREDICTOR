@@ -119,10 +119,10 @@ Save using joblib.dump().
 
 Prediction Page
 
-
+![image alt](https://github.com/R-CHAKRADHAR/RARE_DISEASE_PREDICTOR/blob/main/WhatsApp%20Image%202025-08-30%20at%2010.11.07%20PM.jpeg?raw=true)
 
 Dashboard
-(Add screenshot of upload history table)
+
 
 🚀 Future Enhancements
 
