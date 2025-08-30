@@ -123,6 +123,7 @@ Prediction Page
 
 Dashboard
 
+![image alt](https://github.com/R-CHAKRADHAR/RARE_DISEASE_PREDICTOR/blob/main/WhatsApp%20Image%202025-08-30%20at%2010.11.07%20PM%20(1).jpeg?raw=true)
 
 🚀 Future Enhancements
 
